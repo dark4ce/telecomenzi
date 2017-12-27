@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+  <name>Add Cart Button Redirect Checkout - Journal Theme</name>
+  <code>add-cart-redirect-checkout-Journal-Theme</code>
+  <version>1.0</version>
+  <author>CubicleX</author>
+  <link>http://www.55medya.com</link>
+  <file path="catalog/view/theme/*/template/product/product.tpl">
+    <operation>
+      <search><![CDATA[$('html, body').animate({ scrollTop: 0 }, 'slow');]]></search>
+      <add position="replace"><![CDATA[
+              $('html, body').animate({ scrollTop: 0 }, 'slow');
+              var url = "/index.php?route=checkout/checkout";    
+              $(location).attr('href',url);
+        ]]></add>
+    </operation>
+  </file>  
+
+</modification>

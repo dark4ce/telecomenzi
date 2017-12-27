@@ -1,0 +1,605 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.sort_order&amp;order=ASC">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=ASC">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=DESC" selected="selected">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-33 lg-20 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-universala-sony-smart-3d-netflix-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-universala-sony-smart-3d-netflix-led-lcd-225x300.jpg" title="Telecomandă universală Sony Smart 3D Netflix LED LCD" alt="Telecomandă universală Sony Smart 3D Netflix LED LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-universala-sony-smart-3d-netflix-led-lcd">Telecomandă universală Sony Smart 3D Netflix LED LCD</a></h4>
+                    <p class="description">Telecomandă universală Sony Smart 3D Netflix LED LCD
+Telecomanda universală Sony Smart 3D Netflix LED LCD este compatibilă cu toat..</p>
+                                                            <p class="price">
+                                                35,00 Lei                                                                        <span class="price-tax">Fără TVA: 35,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('731');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('731');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('731');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-887" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-sony-RM-887-225x300.jpg" title="Telecomandă Sony RM-887" alt="Telecomandă Sony RM-887" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-887">Telecomandă Sony RM-887</a></h4>
+                    <p class="description">Telecomandă Sony RM-887
+Telecomanda Sony RM-887 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('467');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('467');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('467');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-839" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-sony-RM-839-225x300.jpg" title="Telecomandă Sony RM-839" alt="Telecomandă Sony RM-839" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-839">Telecomandă Sony RM-839</a></h4>
+                    <p class="description">Telecomandă Sony RM-839
+Telecomanda Sony RM-839 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('466');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('466');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('466');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-191a" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-sony-RM-191A-225x300.jpg" title="Telecomandă Sony RM-191A" alt="Telecomandă Sony RM-191A" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-191a">Telecomandă Sony RM-191A</a></h4>
+                    <p class="description">Telecomandă Sony RM-191A
+Telecomanda Sony RM-191A este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('465');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('465');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('465');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-uct-042-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-uct-042-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Sony UCT-042 LED / LCD" alt="Telecomandă Sony UCT-042 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-uct-042-led-lcd">Telecomandă Sony UCT-042 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony UCT-042
+Telecomanda Sony UCT-042 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('730');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('730');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('730');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-smart-3d-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Sony Smart 3D LED / LCD" alt="Telecomandă Sony Smart 3D LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-smart-3d-led-lcd">Telecomandă Sony Smart 3D LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony Smart 3D
+Telecomanda Sony Smart 3D este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('729');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('729');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('729');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rmt-tx100d-smart-netflix-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rmt-tx100d-smart-netflix-led-lcd-225x300.jpg" title="Telecomandă Sony RMT-TX100D Smart Netflix LED / LCD" alt="Telecomandă Sony RMT-TX100D Smart Netflix LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rmt-tx100d-smart-netflix-led-lcd">Telecomandă Sony RMT-TX100D Smart Netflix LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RMT-TX100D Smart Netflix
+Telecomanda Sony RMT-TX100D Smart Netflix este din punct de vedere al aspectului și func..</p>
+                                                            <p class="price">
+                                                29,00 Lei                                                                        <span class="price-tax">Fără TVA: 29,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('804');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('804');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('804');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-yd041-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-yd041-led-lcd-225x300.jpg" title="Telecomandă Sony RM-YD041 LED / LCD" alt="Telecomandă Sony RM-YD041 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-yd041-led-lcd">Telecomandă Sony RM-YD041 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-YD041
+Telecomanda Sony RM-YD041 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('728');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('728');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('728');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ld825-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ld825-3d-led-lcd-225x300.jpg" title="Telecomandă Sony RM-LD825 LED / LCD" alt="Telecomandă Sony RM-LD825 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ld825-led-lcd">Telecomandă Sony RM-LD825 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-LD825
+Telecomanda Sony RM-LD825 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('726');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('726');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('726');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-l1165-smart-3d-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-l1165-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Sony RM-L1165 Smart 3D LED / LCD" alt="Telecomandă Sony RM-L1165 Smart 3D LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-l1165-smart-3d-led-lcd">Telecomandă Sony RM-L1165 Smart 3D LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-L1165 Smart 3D
+Telecomanda Sony RM-L1165 Smart 3D este din punct de vedere al aspectului și funcționalității i..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('725');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('725');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('725');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed030-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed030-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED030 LED / LCD Smart 3D" alt="Telecomandă Sony RM-ED030 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed030-led-lcd-smart-3d">Telecomandă Sony RM-ED030 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED030 Smart 3D
+Telecomanda Sony RM-ED030 Smart 3D este din punct de vedere al aspectului și funcționalității i..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('724');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('724');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('724');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed017w-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed017w-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED017W LED / LCD" alt="Telecomandă Sony RM-ED017W LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed017w-led-lcd">Telecomandă Sony RM-ED017W LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED017W
+Telecomanda Sony RM-ED017W este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('723');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('723');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('723');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed016-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed016-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED016 LED / LCD" alt="Telecomandă Sony RM-ED016 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed016-led-lcd">Telecomandă Sony RM-ED016 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED016
+Telecomanda Sony RM-ED016 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('722');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('722');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('722');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed013-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed013-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED013 LED / LCD" alt="Telecomandă Sony RM-ED013 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed013-led-lcd">Telecomandă Sony RM-ED013 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED013
+Telecomanda Sony RM-ED013 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('721');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('721');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('721');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed008-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed008-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED008 LED / LCD" alt="Telecomandă Sony RM-ED008 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed008-led-lcd">Telecomandă Sony RM-ED008 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED008
+Telecomanda Sony RM-ED008 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('720');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('720');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('720');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed007-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed007-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED007 LED / LCD" alt="Telecomandă Sony RM-ED007 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed007-led-lcd">Telecomandă Sony RM-ED007 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED007
+Telecomanda Sony RM-ED007 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('719');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('719');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('719');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed005-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-ed005-led-lcd-225x300.jpg" title="Telecomandă Sony RM-ED005 LED / LCD" alt="Telecomandă Sony RM-ED005 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-ed005-led-lcd">Telecomandă Sony RM-ED005 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-ED005
+Telecomanda Sony RM-ED005 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('718');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('718');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('718');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-d959-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-d959-led-lcd-225x300.jpg" title="Telecomandă Sony RM-D959 LED / LCD" alt="Telecomandă Sony RM-D959 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-d959-led-lcd">Telecomandă Sony RM-D959 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-D959
+Telecomanda Sony RM-D959 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('717');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('717');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('717');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-618a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-618a-led-lcd-225x300.jpg" title="Telecomandă Sony RM-618A LED / LCD" alt="Telecomandă Sony RM-618A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-618a-led-lcd">Telecomandă Sony RM-618A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-618A
+Telecomanda Sony RM-618A este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('715');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('715');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('715');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-ad-sn05-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-ad-sn05-led-lcd-225x300.jpg" title="Telecomandă Sony AD-SN05 LED / LCD" alt="Telecomandă Sony AD-SN05 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-ad-sn05-led-lcd">Telecomandă Sony AD-SN05 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony AD-SN05
+Telecomanda Sony AD-SN05 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('714');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('714');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('714');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-yd026-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm-yd026-led-lcd-225x300.jpg" title="Telecomandă Sony RM-YD026 LED / LCD" alt="Telecomandă Sony RM-YD026 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-yd026-led-lcd">Telecomandă Sony RM-YD026 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-YD026
+Telecomanda Sony RM-YD026 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                22,00 Lei                                                                        <span class="price-tax">Fără TVA: 22,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('727');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('727');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('727');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-934-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-sony-rm934-led-lcd-225x300.jpg" title="Telecomandă Sony RM-934 LED / LCD" alt="Telecomandă Sony RM-934 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-sony-rm-934-led-lcd">Telecomandă Sony RM-934 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Sony RM-934
+Telecomanda Sony RM-934 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('716');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('716');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('716');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 22 din 22 (1 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsort%3Dp.model%2Forder%3DDESC%2Flimit%3D45&amp;oc_route=product%2Fmanufacturer%2Finfo&amp;path=&amp;manufacturer_id=10&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-04 07:42:20 UTC-->

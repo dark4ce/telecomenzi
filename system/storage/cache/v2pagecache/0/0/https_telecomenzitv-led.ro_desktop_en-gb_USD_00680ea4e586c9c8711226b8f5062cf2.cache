@@ -1,0 +1,1210 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.sort_order&amp;order=ASC" selected="selected">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=ASC">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-33 lg-20 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-finlux-rc5117-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-finlux-rc5117-led-lcd-225x300.jpg" title="Telecomandă Finlux RC5117 LED / LCD" alt="Telecomandă Finlux RC5117 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-finlux-rc5117-led-lcd">Telecomandă Finlux RC5117 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Finlux RC5117
+Telecomanda Finlux RC5117 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('552');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('552');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('552');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-nf007rd-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-funai-NF007RD-led-lcd-225x300.jpg" title="Telecomandă Funai NF007RD LED / LCD" alt="Telecomandă Funai NF007RD LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-nf007rd-led-lcd">Telecomandă Funai NF007RD LED / LCD</a></h4>
+                    <p class="description">Telecomandă Funai NF007RD
+Telecomanda Funai NF007RD este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('553');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('553');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('553');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-nf007rd-lcd-led" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-funai-nf007rd-lcd-led-225x300.jpg" title="Telecomandă Funai NF007RD LED / LCD" alt="Telecomandă Funai NF007RD LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-nf007rd-lcd-led">Telecomandă Funai NF007RD LED / LCD</a></h4>
+                    <p class="description">Telecomandă Funai NF007RD
+Telecomanda Funai NF007RD este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('861');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('861');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('861');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-rc4800-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-funai-rc4800-led-lcd-225x300.jpg" title="Telecomandă Funai RC4800 LED / LCD" alt="Telecomandă Funai RC4800 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-funai-rc4800-led-lcd">Telecomandă Funai RC4800 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Funai RC4800
+Telecomandă Funai RC4800 cu aspect original pentru televizoare LED și LCD marca Funai, este identică cu t..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('554');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('554');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('554');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc-ad1-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-rc-ad1-led-lcd-225x300.jpg" title="Telecomandă Grundig RC-AD1 LED / LCD" alt="Telecomandă Grundig RC-AD1 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc-ad1-led-lcd">Telecomandă Grundig RC-AD1 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig RC-AD1
+Telecomanda Grundig RC-AD1 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('555');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('555');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('555');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc-yc1-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-rc-yc1-led-lcd-225x300.jpg" title="Telecomandă Grundig RC-YC1 LED / LCD" alt="Telecomandă Grundig RC-YC1 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc-yc1-led-lcd">Telecomandă Grundig RC-YC1 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig RC-YC1
+Telecomanda Grundig RC-YC1 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('556');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('556');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('556');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc2133501-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-rc2133501-led-lcd-225x300.jpg" title="Telecomandă Grundig RC2133501 LED / LCD" alt="Telecomandă Grundig RC2133501 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-rc2133501-led-lcd">Telecomandă Grundig RC2133501 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig RC2133501
+Telecomanda Grundig RC2133501 este din punct de vedere al aspectului și funcționalității identică cu..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('557');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('557');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('557');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/Telecomanda-Grundig-TP1002" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-tp1002-led-lcd-225x300.jpg" title="Telecomandă Grundig TP1002" alt="Telecomandă Grundig TP1002" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/Telecomanda-Grundig-TP1002">Telecomandă Grundig TP1002</a></h4>
+                    <p class="description">Telecomandă Grundig TP1002
+Telecomanda Grundig TP1002 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                20,00 Lei                                                                        <span class="price-tax">Fără TVA: 20,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('558');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('558');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('558');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp160c" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-TP160-led-lcd-225x300.jpg" title="Telecomandă Grundig TP160C" alt="Telecomandă Grundig TP160C" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp160c">Telecomandă Grundig TP160C</a></h4>
+                    <p class="description">Telecomandă Grundig TP160C
+Telecomanda Grundig TP160C este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('559');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('559');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('559');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp3187r-led-lcd"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-programabila-CLR7980-4-in-1-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-TP3187R-1-led-lcd-225x300.jpg" title="Telecomandă Grundig TP3187R LED / LCD" alt="Telecomandă Grundig TP3187R LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp3187r-led-lcd">Telecomandă Grundig TP3187R LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig TP3187R
+Telecomanda programabilă Grundig TP3187R pentru televizoare LED și LCD marca Grundig, este încărcată c..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('560');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('560');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('560');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp6187r-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/Telecomanda-grundig-TP6187R-2-led-lcd-225x300.jpg" title="Telecomandă Grundig TP6187R LED / LCD" alt="Telecomandă Grundig TP6187R LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-tp6187r-led-lcd">Telecomandă Grundig TP6187R LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig TP6187R
+Telecomanda dedicată Grundig TP6187R pentru televizoare LED și LCD marca Grundig, este identică cu tel..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('561');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('561');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('561');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-TS1187R-Netflix" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-grundig-TS1187R-smart-3d-netflix-225x300.jpg" title="Telecomandă Grundig TS1187R LED / LCD" alt="Telecomandă Grundig TS1187R LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-grundig-TS1187R-Netflix">Telecomandă Grundig TS1187R LED / LCD</a></h4>
+                    <p class="description">Telecomandă Grundig TS1187R Netflix
+Telecomanda dedicată Grundig TS1187R Netflix pentru televizoare LED și LCD marca Grundig, este..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('862');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('862');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('862');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-htr-a18e-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-haier-htr-a18e-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Haier HTR-A18E LED / LCD Smart 3D" alt="Telecomandă Haier HTR-A18E LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-htr-a18e-led-lcd-smart-3d">Telecomandă Haier HTR-A18E LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Haier HTR-A18E Smart 3D
+Telecomanda Haier HTR-A18E Smart 3D este din punct de vedere al aspectului și funcționalității..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('562');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('562');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('562');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-haier-led1-led-lcd-225x300.jpg" title="Telecomandă Haier LED / LCD 1" alt="Telecomandă Haier LED / LCD 1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-led-lcd">Telecomandă Haier LED / LCD 1</a></h4>
+                    <p class="description">Telecomandă Haier LED 1
+Telecomanda Haier LED este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('563');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('563');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('563');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-led-lcd-2" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-haier-led2-led-lcd-225x300.jpg" title="Telecomandă Haier LED / LCD 2" alt="Telecomandă Haier LED / LCD 2" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-haier-led-lcd-2">Telecomandă Haier LED / LCD 2</a></h4>
+                    <p class="description">Telecomandă Haier LED 2
+Telecomanda Haier LED 2 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('564');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('564');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('564');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-heru-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-heru-led-lcd-225x300.jpg" title="Telecomandă Heru LED / LCD" alt="Telecomandă Heru LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-heru-led-lcd">Telecomandă Heru LED / LCD</a></h4>
+                    <p class="description">Telecomandă Heru LED
+Telecomanda Heru LED este din punct de vedere al aspectului și funcționalității identică cu telecomanda origi..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('565');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('565');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('565');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hisense-en21636a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hisense-en21636a-led-lcd-225x300.jpg" title="Telecomandă Hisense EN21636A LED / LCD" alt="Telecomandă Hisense EN21636A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hisense-en21636a-led-lcd">Telecomandă Hisense EN21636A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Hisense EN21636A
+Telecomanda Hisense EN21636A este din punct de vedere al aspectului și funcționalității identică cu t..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('566');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('566');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('566');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hitachi-R5118-Netflix-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hitachi-rc5118-netflix-youtube-led-lcd-225x300.jpg" title="Telecomandă Hitachi R5118 Netflix" alt="Telecomandă Hitachi R5118 Netflix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hitachi-R5118-Netflix-led-lcd">Telecomandă Hitachi R5118 Netflix</a></h4>
+                    <p class="description">Telecomandă Hitachi RC1910
+Telecomanda Hitachi R5118 Netflix este din punct de vedere al aspectului și funcționalității identică c..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('863');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('863');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('863');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hitachi-rc1910-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hitachi-rc1910-led-lcd-225x300.jpg" title="Telecomandă Hitachi RC1910 LED / LCD" alt="Telecomandă Hitachi RC1910 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hitachi-rc1910-led-lcd">Telecomandă Hitachi RC1910 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Hitachi RC1910
+Telecomanda Hitachi RC1910 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('567');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('567');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('567');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-led-lcd"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-programabila-CLR7980-4-in-1-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-horizon-led-lcd-225x300.jpg" title="Telecomandă Horizon LED / LCD" alt="Telecomandă Horizon LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-led-lcd">Telecomandă Horizon LED / LCD</a></h4>
+                    <p class="description">Telecomandă Horizon LED
+Telecomanda Horizon LED este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('568');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('568');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('568');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc-a03-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-horizon-rc-a03-led-lcd-225x300.jpg" title="Telecomandă Horizon RC-A03 LED / LCD" alt="Telecomandă Horizon RC-A03 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc-a03-led-lcd">Telecomandă Horizon RC-A03 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Horizon RC-A03
+Telecomanda Horizon RC-A03 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('569');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('569');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('569');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc4900-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-horizon-rc4900-led-lcd.jpg-225x300.jpg" title="Telecomandă Horizon RC4900 LED / LCD" alt="Telecomandă Horizon RC4900 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc4900-led-lcd">Telecomandă Horizon RC4900 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Horizon RC4900
+Telecomanda Horizon RC4900 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('570');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('570');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('570');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc4937-led-lcd-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-horizon-rc4937-led-ldc-smart-3d-225x300.jpg" title="Telecomandă Horizon RC4937 LED / LCD 3D" alt="Telecomandă Horizon RC4937 LED / LCD 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-horizon-rc4937-led-lcd-3d">Telecomandă Horizon RC4937 LED / LCD 3D</a></h4>
+                    <p class="description">Telecomandă Horizon RC4937 3D
+Telecomanda Horizon RC4937 3D este din punct de vedere al aspectului și funcționalității identică cu..</p>
+                                                            <p class="price">
+                                                28,00 Lei                                                                        <span class="price-tax">Fără TVA: 28,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('571');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('571');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('571');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-lcd-led"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-programabila-CLR7980-4-in-1-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hyundai-led-lcd-225x300.jpg" title="Telecomandă Hyundai LED / LCD 1" alt="Telecomandă Hyundai LED / LCD 1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-lcd-led">Telecomandă Hyundai LED / LCD 1</a></h4>
+                    <p class="description">Telecomandă Hyundai LED 1
+Telecomanda Hyundai LED este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('572');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('572');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('572');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-led-lcd-2" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hyundai-led-lcd2-225x300.jpg" title="Telecomandă Hyundai LED / LCD 2" alt="Telecomandă Hyundai LED / LCD 2" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-led-lcd-2">Telecomandă Hyundai LED / LCD 2</a></h4>
+                    <p class="description">Telecomandă Hyundai LED 2
+Telecomanda Hyundai LED 2 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('573');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('573');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('573');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-rc-e23-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hyundai-rc-e23-led-lcd-225x300.jpg" title="Telecomandă Hyundai RC-E23 LED / LCD" alt="Telecomandă Hyundai RC-E23 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-rc-e23-led-lcd">Telecomandă Hyundai RC-E23 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Hyundai RC-E23
+Telecomandă Hyundai RC-E23 cu aspect original pentru televizoare LED și LCD marca Hyundai, este identic..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('574');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('574');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('574');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-rc4800-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hyundai-rc4800-led-lcd-225x300.jpg" title="Telecomandă Hyundai RC4800 LED / LCD" alt="Telecomandă Hyundai RC4800 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-rc4800-led-lcd">Telecomandă Hyundai RC4800 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Hyundai RC4800
+Telecomandă Hyundai RC4800 cu aspect original pentru televizoare LED și LCD marca Hyundai, este identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('575');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('575');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('575');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-tlcc472-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-hyundai-tlcc427-led-lcd-225x300.jpg" title="Telecomandă Hyundai TLCC472 LED / LCD" alt="Telecomandă Hyundai TLCC472 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-hyundai-tlcc472-led-lcd">Telecomandă Hyundai TLCC472 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Hyundai TLCC472
+Telecomanda Hyundai TLCC472 este din punct de vedere al aspectului și funcționalității identică cu tel..</p>
+                                                            <p class="price">
+                                                22,00 Lei                                                                        <span class="price-tax">Fără TVA: 22,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('576');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('576');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('576');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-jvc-rm-710r-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-jvc-RM-710R-led-lcd-225x300.jpg" title="Telecomandă Jvc RM-710R LED / LCD" alt="Telecomandă Jvc RM-710R LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-jvc-rm-710r-led-lcd">Telecomandă Jvc RM-710R LED / LCD</a></h4>
+                    <p class="description">Telecomandă JVC RM-710R
+Telecomanda JVC RM-710R este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('577');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('577');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('577');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-671090010s-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-671090010S-led-lcd-225x300.jpg" title="Telecomandă LG 671090010S LED / LCD" alt="Telecomandă LG 671090010S LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-671090010s-led-lcd">Telecomandă LG 671090010S LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg 671090010S
+Telecomanda Lg 671090010S este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('578');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('578');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('578');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb15208-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb15208-led-lcd-225x300.jpg" title="Telecomandă LG AKB15208 LED / LCD" alt="Telecomandă LG AKB15208 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb15208-led-lcd">Telecomandă LG AKB15208 LED / LCD</a></h4>
+                    <p class="description">Telecomandă LG AKB15208
+Telecomanda LG AKB15208 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                        <div class="rating">
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                    </div>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('579');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('579');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('579');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680403-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB69680403-led-lcd-225x300.jpg" title="Telecomandă LG AKB69680403 LED / LCD" alt="Telecomandă LG AKB69680403 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680403-led-lcd">Telecomandă LG AKB69680403 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB69680403
+Telecomanda Lg AKB69680403 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('580');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('580');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('580');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680405-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb69680405-led-lcd-225x300.jpg" title="Telecomandă LG AKB69680405 LED / LCD" alt="Telecomandă LG AKB69680405 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680405-led-lcd">Telecomandă LG AKB69680405 LED / LCD</a></h4>
+                    <p class="description">Telecomandă LG AKB69680405
+Telecomanda LG AKB69680405 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('581');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('581');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('581');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680437-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB69680437-led-lcd-225x300.jpg" title="Telecomandă LG AKB69680437 LED / LCD" alt="Telecomandă LG AKB69680437 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb69680437-led-lcd">Telecomandă LG AKB69680437 LED / LCD</a></h4>
+                    <p class="description">Telecomandă LG AKB69680437
+Telecomanda LG AKB69680437 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('582');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('582');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('582');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914012-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB72914012-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914012 LED / LCD" alt="Telecomandă LG AKB72914012 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914012-led-lcd">Telecomandă LG AKB72914012 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914012 LED / LCD
+Telecomanda Lg AKB72914012 LED / LCD este din punct de vedere al aspectului și funcționalităț..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('583');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('583');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('583');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914041-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB72914041-led-lcd-smart-3d-225x300.jpg" title="Telecomandă LG AKB72914041 LED / LCD Smart 3D" alt="Telecomandă LG AKB72914041 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914041-led-lcd-smart-3d">Telecomandă LG AKB72914041 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914041 Smart 3D
+Telecomanda Lg AKB72914041 Smart 3D este din punct de vedere al aspectului și funcționalității..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('584');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('584');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('584');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914065-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB72914065-Smart-3D-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914065 LED / LCD Smart 3D" alt="Telecomandă LG AKB72914065 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914065-led-lcd-smart-3d">Telecomandă LG AKB72914065 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914065 Smart 3D
+Telecomanda Lg AKB72914065 Smart 3D este din punct de vedere al aspectului și funcționalității..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('585');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('585');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('585');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914207-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB72914207-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914207 LED / LCD" alt="Telecomandă LG AKB72914207 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914207-led-lcd">Telecomandă LG AKB72914207 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914207 
+Telecomanda Lg AKB72914207 este din punct de vedere al aspectului și funcționalității identică cu tele..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('586');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('586');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('586');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914209-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914209-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914209 LED / LCD" alt="Telecomandă LG AKB72914209 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914209-led-lcd">Telecomandă LG AKB72914209 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914209
+Telecomanda Lg AKB72914209 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('587');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('587');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('587');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914210-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-AKB72914210-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914210 LED / LCD" alt="Telecomandă LG AKB72914210 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914210-led-lcd">Telecomandă LG AKB72914210 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914210
+Telecomanda Lg AKB72914210 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('588');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('588');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('588');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914238-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914238-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914238 LED / LCD" alt="Telecomandă LG AKB72914238 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914238-led-lcd">Telecomandă LG AKB72914238 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914238
+Telecomanda Lg AKB72914238 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('589');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('589');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('589');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914276-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914276-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914276 LED / LCD Smart 3D" alt="Telecomandă LG AKB72914276 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914276-led-lcd-smart-3d">Telecomandă LG AKB72914276 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914276 Smart 3D
+Telecomanda Lg AKB72914276 Smart 3D este din punct de vedere al aspectului și funcționalității..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('590');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('590');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('590');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914276j-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914276j-smart-3d-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914276J LED / LCD Smart 3D" alt="Telecomandă LG AKB72914276J LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914276j-led-lcd-smart-3d">Telecomandă LG AKB72914276J LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914276J Smart 3D
+Telecomanda Lg AKB72914276J Smart 3D este din punct de vedere al aspectului și funcționalităț..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('591');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('591');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('591');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914279-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914279-smart-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914279 LED / LCD Smart" alt="Telecomandă LG AKB72914279 LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914279-led-lcd-smart">Telecomandă LG AKB72914279 LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914279 Smart
+Telecomanda Lg AKB72914279 Smart este din punct de vedere al aspectului și funcționalității ident..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('592');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('592');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('592');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914293-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-lg-akb72914293-smart-led-lcd-225x300.jpg" title="Telecomandă LG AKB72914293 LED / LCD Smart" alt="Telecomandă LG AKB72914293 LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd/telecomanda-lg-akb72914293-led-lcd-smart">Telecomandă LG AKB72914293 LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Lg AKB72914293 Smart
+Telecomanda Lg AKB72914293 Smart este din punct de vedere al aspectului și funcționalității ident..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('593');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('593');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('593');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"><ul class="pagination"><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page={page}">|&lt;</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page={page}">&lt;</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page={page}">1</a></li><li class="active"><span>2</span></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=3">3</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=4">4</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=5">5</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=6">6</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=7">7</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=8">8</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=3">&gt;</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-led-lcd?page=8">&gt;|</a></li></ul></div>
+    <div class="col-sm-6 text-right results">Afişare 46 - 90 din 346 (8 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D45%2Fpage%3D2&amp;oc_route=product%2Fcategory&amp;path=172&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 11:57:05 UTC-->

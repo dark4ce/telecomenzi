@@ -1,0 +1,1204 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.sort_order&amp;order=ASC">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=ASC" selected="selected">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-50 lg-33 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-n18" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aeg-n18-225x300.jpg" title="Telecomandă Aeg N18" alt="Telecomandă Aeg N18" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-n18">Telecomandă Aeg N18</a></h4>
+                    <p class="description">Telecomandă Aeg N18
+Telecomanda Aeg N18 este din punct de vedere al aspectului și funcționalității identică cu telecomanda origina..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('291');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('291');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('291');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-rc02" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aeg-rc02-225x300.jpg" title="Telecomandă Aeg RC02" alt="Telecomandă Aeg RC02" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-rc02">Telecomandă Aeg RC02</a></h4>
+                    <p class="description">Telecomandă Aeg RC02
+Telecomanda Aeg RC02 este din punct de vedere al aspectului și funcționalității identică cu telecomanda origi..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('293');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('293');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('293');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-sd3" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aeg-digital1-225x300.jpg" title="Telecomandă Aeg SD3" alt="Telecomandă Aeg SD3" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aeg-sd3">Telecomandă Aeg SD3</a></h4>
+                    <p class="description">Telecomandă Aeg SD3
+Telecomanda Aeg SD3 este din punct de vedere al aspectului și funcționalității identică cu telecomanda origina..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('292');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('292');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('292');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-6vt05" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aiwa-rc-6vt05-225x300.jpg" title="Telecomandă Aiwa RC-6VT05" alt="Telecomandă Aiwa RC-6VT05" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-6vt05">Telecomandă Aiwa RC-6VT05</a></h4>
+                    <p class="description">Telecomandă Aiwa RC-6VT05
+Telecomanda Aiwa RC-6VT05 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('297');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('297');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('297');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-7vt06" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aiwa-RC-7VT06-225x300.jpg" title="Telecomandă Aiwa RC-7VT06" alt="Telecomandă Aiwa RC-7VT06" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-7vt06">Telecomandă Aiwa RC-7VT06</a></h4>
+                    <p class="description">Telecomandă Aiwa RC-7VT06
+Telecomanda Aiwa RC-7VT06 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('294');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('294');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('294');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb outofstock">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-avt02" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aiwa-RC-AVT02-225x300.jpg" title="Telecomandă Aiwa RC-AVT02" alt="Telecomandă Aiwa RC-AVT02" />
+                </a>
+                                                <span class="label-outofstock"><b>Stoc epuizat</b></span>
+                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rc-avt02">Telecomandă Aiwa RC-AVT02</a></h4>
+                    <p class="description">Telecomandă Aiwa RC-AVT02
+Telecomanda Aiwa RC-AVT02 este din punct de vedere al aspectului și funcționalității identică cu telecom..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart outofstock">
+                        <a onclick="addToCart('295');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('295');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('295');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rm-191a" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-aiwa-RM-191A-225x300.jpg" title="Telecomandă Aiwa RM-191A" alt="Telecomandă Aiwa RM-191A" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-aiwa-rm-191a">Telecomandă Aiwa RM-191A</a></h4>
+                    <p class="description">Telecomandă Aiwa RM-191A
+Telecomanda Aiwa RM-191A este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('296');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('296');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('296');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-68-225x300.jpg" title="Telecomandă Akai" alt="Telecomandă Akai" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai">Telecomandă Akai</a></h4>
+                    <p class="description">Telecomandă Akai
+Telecomanda Akai este din punct de vedere al aspectului și funcționalității identică cu telecomanda originală și ..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('299');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('299');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('299');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-12-5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-12-5-225x300.jpg" title="Telecomandă Akai 12.5" alt="Telecomandă Akai 12.5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-12-5">Telecomandă Akai 12.5</a></h4>
+                    <p class="description">Telecomandă Akai 12.5
+Telecomanda Akai 12.5 este din punct de vedere al aspectului și funcționalității identică cu telecomanda ori..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('303');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('303');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('303');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-14-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-14-1-225x300.jpg" title="Telecomandă Akai 14.1" alt="Telecomandă Akai 14.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-14-1">Telecomandă Akai 14.1</a></h4>
+                    <p class="description">Telecomandă Akai 14.1
+Telecomanda Akai 14.1 este din punct de vedere al aspectului și funcționalității identică cu telecomanda ori..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('304');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('304');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('304');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-1ce3" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-1CE3-6-8mov-225x300.jpg" title="Telecomandă Akai 1CE3" alt="Telecomandă Akai 1CE3" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-1ce3">Telecomandă Akai 1CE3</a></h4>
+                    <p class="description">Telecomandă Akai 1CE3
+Telecomanda Akai 1CE3 este din punct de vedere al aspectului și funcționalității identică cu telecomanda ori..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('298');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('298');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('298');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-51" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-np51-225x300.jpg" title="Telecomandă Akai 51" alt="Telecomandă Akai 51" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-51">Telecomandă Akai 51</a></h4>
+                    <p class="description">Telecomandă Akai 51
+Telecomanda Akai 51 este din punct de vedere al aspectului și funcționalității identică cu telecomanda origina..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('301');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('301');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('301');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-jh-b03" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-jh-b03-np51-225x300.jpg" title="Telecomandă Akai JH-B03" alt="Telecomandă Akai JH-B03" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-jh-b03">Telecomandă Akai JH-B03</a></h4>
+                    <p class="description">Telecomandă Akai JH-B03
+Telecomanda Akai JH-B03 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('300');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('300');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('300');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-rcn2a" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-akai-rcn2a-225x300.jpg" title="Telecomandă Akai RCN2A" alt="Telecomandă Akai RCN2A" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-akai-rcn2a">Telecomandă Akai RCN2A</a></h4>
+                    <p class="description">Telecomandă Akai RCN2A
+Telecomanda Akai RCN2A este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('302');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('302');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('302');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-12-5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-12-5-225x300.jpg" title="Telecomandă Allview 12.5" alt="Telecomandă Allview 12.5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-12-5">Telecomandă Allview 12.5</a></h4>
+                    <p class="description">Telecomandă Allview 12.5
+Telecomanda Allview 12.5 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('312');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('312');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('312');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-14-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-14-1-225x300.jpg" title="Telecomandă Allview 14.1" alt="Telecomandă Allview 14.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-14-1">Telecomandă Allview 14.1</a></h4>
+                    <p class="description">Telecomandă Allview 14.1
+Telecomanda Allview 14.1 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('311');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('311');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('311');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-54d5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-54D5-225x300.jpg" title="Telecomandă Allview 54D5" alt="Telecomandă Allview 54D5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-54d5">Telecomandă Allview 54D5</a></h4>
+                    <p class="description">Telecomandă Allview 54D5
+Telecomanda Allview 54D5 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('305');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('305');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('305');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-NP51-225x300.jpg" title="Telecomandă Allview NP51" alt="Telecomandă Allview NP51" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51">Telecomandă Allview NP51</a></h4>
+                    <p class="description">Telecomandă Allview NP51
+Telecomanda Allview NP51 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('306');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('306');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('306');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-2" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-NP51-2-225x300.jpg" title="Telecomandă Allview NP51 2" alt="Telecomandă Allview NP51 2" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-2">Telecomandă Allview NP51 2</a></h4>
+                    <p class="description">Telecomandă Allview NP51 2
+Telecomanda Allview NP51 2 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('307');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('307');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('307');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-3" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-NP51-3-225x300.jpg" title="Telecomandă Allview NP51 3" alt="Telecomandă Allview NP51 3" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-3">Telecomandă Allview NP51 3</a></h4>
+                    <p class="description">Telecomandă Allview NP51 3
+Telecomanda Allview NP51 3 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('308');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('308');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('308');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-4" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-NP51-4-225x300.jpg" title="Telecomandă Allview NP51 4" alt="Telecomandă Allview NP51 4" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-np51-4">Telecomandă Allview NP51 4</a></h4>
+                    <p class="description">Telecomandă Allview NP51 4
+Telecomanda Allview NP51 4 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('309');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('309');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('309');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-ta4901f" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-allview-TA4901F-68-225x300.jpg" title="Telecomandă Allview TA4901F" alt="Telecomandă Allview TA4901F" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-allview-ta4901f">Telecomandă Allview TA4901F</a></h4>
+                    <p class="description">Telecomandă Allview TA4901F
+Telecomanda Allview TA4901F este din punct de vedere al aspectului și funcționalității identică cu tel..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('310');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('310');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('310');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-artic-12-5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-artic-12-5-225x300.jpg" title="Telecomandă Artic 12.5" alt="Telecomandă Artic 12.5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-artic-12-5">Telecomandă Artic 12.5</a></h4>
+                    <p class="description">Telecomandă Artic 12.5
+Telecomanda Artic 12.5 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('314');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('314');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('314');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-artic-14-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-arctic-14-1-225x300.jpg" title="Telecomandă Artic 14.1" alt="Telecomandă Artic 14.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-artic-14-1">Telecomandă Artic 14.1</a></h4>
+                    <p class="description">Telecomandă Artic 14.1
+Telecomanda Artic 14.1 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('313');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('313');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('313');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-12-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-12-1-225x300.jpg" title="Telecomandă Beko 12.1" alt="Telecomandă Beko 12.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-12-1">Telecomandă Beko 12.1</a></h4>
+                    <p class="description">Telecomandă Beko 12.1
+Telecomanda 12.1 cu aspect original pentru televizoare marca Beko, Audiosonic, Argos, Medion, Toshiba, Unite..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('320');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('320');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('320');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-12-5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-12-5-225x300.jpg" title="Telecomandă Beko 12.5" alt="Telecomandă Beko 12.5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-12-5">Telecomandă Beko 12.5</a></h4>
+                    <p class="description">Telecomandă Beko 12.5
+Telecomanda 12.5 cu aspect original pentru televizoare marca Beko, este identică cu telecomanda originală at..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('321');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('321');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('321');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-14-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-14-1-225x300.jpg" title="Telecomandă Beko 14.1" alt="Telecomandă Beko 14.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-14-1">Telecomandă Beko 14.1</a></h4>
+                    <p class="description">Telecomandă Beko 14.1
+Telecomanda 14.1 cu aspect original pentru televizoare marca Beko, este identică cu telecomanda originală at..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('322');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('322');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('322');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-15-1-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-15-1-225x300.jpg" title="Telecomandă Beko 15.1 Smart" alt="Telecomandă Beko 15.1 Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-15-1-smart">Telecomandă Beko 15.1 Smart</a></h4>
+                    <p class="description">Telecomandă Beko 15.1 Smart
+Telecomanda Beko 15.1 Smart este din punct de vedere al aspectului și funcționalității identică cu tel..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('319');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('319');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('319');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-16-9" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-16-9-225x300.jpg" title="Telecomandă Beko 16.9" alt="Telecomandă Beko 16.9" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-16-9">Telecomandă Beko 16.9</a></h4>
+                    <p class="description">Telecomandă Beko 16.9
+Telecomanda 16.9 cu aspect original pentru televizoare marca Beko, este identică cu telecomanda originală at..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('323');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('323');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('323');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc51321" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-RC51321-225x300.jpg" title="Telecomandă Beko RC51321" alt="Telecomandă Beko RC51321" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc51321">Telecomandă Beko RC51321</a></h4>
+                    <p class="description">Telecomandă Beko RC51321
+Telecomanda RC51321 cu aspect original pentru televizoare marca Beko, Bruns, Freedom, Hermes, Nei, Audios..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('315');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('315');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('315');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc613311" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-RC613311-225x300.jpg" title="Telecomandă Beko RC613311" alt="Telecomandă Beko RC613311" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc613311">Telecomandă Beko RC613311</a></h4>
+                    <p class="description">Telecomandă Beko RC613311
+Telecomanda RC613311 cu aspect original pentru televizoare marca Beko, Bruns, Freedom, Hermes, Nei, Audi..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('316');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('316');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('316');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc647340" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-RC647340-225x300.jpg" title="Telecomandă Beko RC647340" alt="Telecomandă Beko RC647340" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-rc647340">Telecomandă Beko RC647340</a></h4>
+                    <p class="description">Telecomandă Beko RC647340
+Telecomanda RC647340 cu aspect original pentru televizoare marca Beko, Clatronic, Nei, OVP, Tesla, este ..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('317');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('317');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('317');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-x65187r" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-beko-x65187r-225x300.jpg" title="Telecomandă Beko X65187R" alt="Telecomandă Beko X65187R" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-beko-x65187r">Telecomandă Beko X65187R</a></h4>
+                    <p class="description">Telecomandă Beko X65187R
+Telecomanda X65187R cu aspect original pentru televizoare marca Beko, este identică cu telecomanda origin..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('318');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('318');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('318');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-54d5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-54D5-225x300.jpg" title="Telecomandă Buntz 54D5" alt="Telecomandă Buntz 54D5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-54d5">Telecomandă Buntz 54D5</a></h4>
+                    <p class="description">Telecomandă Buntz 54D5
+Telecomanda Buntz 54D5 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('324');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('324');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('324');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-hx-p10" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-hx-p10-225x300.jpg" title="Telecomandă Buntz HX-P10" alt="Telecomandă Buntz HX-P10" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-hx-p10">Telecomandă Buntz HX-P10</a></h4>
+                    <p class="description">Telecomandă Buntz HX-P10
+Telecomanda Buntz HX-P10 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('329');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('329');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('329');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np41" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/Telecomanda-tv-Buntz-NP41-225x300.jpg" title="Telecomandă Buntz NP41" alt="Telecomandă Buntz NP41" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np41">Telecomandă Buntz NP41</a></h4>
+                    <p class="description">Telecomandă Buntz NP41
+Telecomanda Buntz NP41 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('330');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('330');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('330');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-NP51-225x300.jpg" title="Telecomandă Buntz NP51" alt="Telecomandă Buntz NP51" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51">Telecomandă Buntz NP51</a></h4>
+                    <p class="description">Telecomandă Buntz NP51
+Telecomanda Buntz NP51 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('325');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('325');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('325');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-2" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-NP51-2-225x300.jpg" title="Telecomandă Buntz NP51 2" alt="Telecomandă Buntz NP51 2" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-2">Telecomandă Buntz NP51 2</a></h4>
+                    <p class="description">Telecomandă Buntz NP51 2
+Telecomanda Buntz NP51 2 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('326');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('326');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('326');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-3" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-NP51-3-225x300.jpg" title="Telecomandă Buntz NP51 3" alt="Telecomandă Buntz NP51 3" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-3">Telecomandă Buntz NP51 3</a></h4>
+                    <p class="description">Telecomandă Buntz NP51 3
+Telecomanda Buntz NP51 3 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('327');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('327');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('327');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-4" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-buntz-NP51-4-225x300.jpg" title="Telecomandă Buntz NP51 4" alt="Telecomandă Buntz NP51 4" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-buntz-np51-4">Telecomandă Buntz NP51 4</a></h4>
+                    <p class="description">Telecomandă Buntz NP51 4
+Telecomanda Buntz NP51 4 este din punct de vedere al aspectului și funcționalității identică cu telecoman..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('328');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('328');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('328');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-n18" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-cartel-n18-225x300.jpg" title="Telecomandă Cartel N18" alt="Telecomandă Cartel N18" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-n18">Telecomandă Cartel N18</a></h4>
+                    <p class="description">Telecomandă Cartel N18
+Telecomanda Cartel N18 este din punct de vedere al aspectului și funcționalității identică cu telecomanda o..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('331');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('331');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('331');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-rc-l-05" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-cartel-rc-l-05-225x300.jpg" title="Telecomandă Cartel RC-L-05" alt="Telecomandă Cartel RC-L-05" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-rc-l-05">Telecomandă Cartel RC-L-05</a></h4>
+                    <p class="description">Telecomandă Cartel RC-L-05
+Telecomanda Cartel RC-L-05 este din punct de vedere al aspectului și funcționalității identică cu telec..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('333');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('333');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('333');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-rc02" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-cartel-rc02-225x300.jpg" title="Telecomandă Cartel RC02" alt="Telecomandă Cartel RC02" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-cartel-rc02">Telecomandă Cartel RC02</a></h4>
+                    <p class="description">Telecomandă Cartel RC02
+Telecomanda Cartel RC02 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('332');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('332');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('332');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-daewoo-12-5" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-daewoo-12-5-225x300.jpg" title="Telecomandă Daewoo 12.5" alt="Telecomandă Daewoo 12.5" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-daewoo-12-5">Telecomandă Daewoo 12.5</a></h4>
+                    <p class="description">Telecomandă Daewoo 12.5
+Telecomanda Daewoo 12.5 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('340');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('340');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('340');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-daewoo-14-1" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-daewoo-14-1-225x300.jpg" title="Telecomandă Daewoo 14.1" alt="Telecomandă Daewoo 14.1" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomenzi-tv/telecomanda-daewoo-14-1">Telecomandă Daewoo 14.1</a></h4>
+                    <p class="description">Telecomandă Daewoo 14.1
+Telecomanda Daewoo 14.1 este din punct de vedere al aspectului și funcționalității identică cu telecomanda..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('341');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('341');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('341');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"><ul class="pagination"><li class="active"><span>1</span></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=2">2</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=3">3</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=4">4</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=5">5</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=2">&gt;</a></li><li><a href="https://telecomenzitv-led.ro/telecomenzi-tv?page=5">&gt;|</a></li></ul></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 45 din 185 (5 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsort%3Dpd.name%2Forder%3DASC%2Flimit%3D45&amp;oc_route=product%2Fcategory&amp;path=211&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 15:50:49 UTC-->

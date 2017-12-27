@@ -1,0 +1,33 @@
+<table class="table table-striped table-bordered">
+  <tr>
+    <td style="width: 50%;"><strong>Razvan Butca</strong></td>
+    <td class="text-right">20.10.2016</td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Telecomanda functioneaza perfect! Livrare rapida! Pret accesibil!</p>
+                  <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+            </td>
+  </tr>
+</table>
+<table class="table table-striped table-bordered">
+  <tr>
+    <td style="width: 50%;"><strong>Iov Cosmin</strong></td>
+    <td class="text-right">15.10.2016</td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Va multumesc pentru promptitudine si seriozitate, telecomanda functioneaza perfect!</p>
+                  <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+            </td>
+  </tr>
+</table>
+<div class="text-right"></div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=product/product/review&amp;product_id=492] (en-gb/USD) expires: 2017-12-03 17:59:19 UTC-->

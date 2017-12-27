@@ -1,0 +1,28 @@
+<div id="journal-super-filter-54" class="journal-sf filter-collapse " data-filters-action="index.php?route=module/journal2_super_filter/filters&amp;module_id=54" data-products-action="index.php?route=module/journal2_super_filter/products&amp;module_id=54" data-route="module/journal2_super_filter/filters" data-path="261" data-manufacturer="" data-search="" data-tag=""  data-loading-text="" data-currency-left="" data-currency-right=" Lei" data-currency-decimal="," data-currency-thousand="." data-category_id="" data-sub_category="" data-st="E.R.">
+        <a class="sf-reset hint--top sf-icon" data-hint=""><span class="sf-reset-text"></span><i class="sf-reset-icon"></i></a>
+        <input type="hidden" class="sf-page" value="" />
+        <div class="sf-price  box " data-id="price" data-min-price="15" data-max-price="269">
+    <div class="box-heading">Preţ</div>
+    <div class="box-content">
+                <section class="slider" data-min-value="15" data-max-value="269"></section>
+            </div>
+</div>        <div class="box sf-category sf-list sf-multi " data-id="category">
+    <div class="box-heading">Categorii</div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="suport-tv-fix" type="checkbox" name="category" value="262"><span class="sf-name">Suport TV fix (12)</span> </label></li>
+                                                <li><label><input data-keyword="suport-tv-reglabil" type="checkbox" name="category" value="263"><span class="sf-name">Suport TV reglabil (5)</span> </label></li>
+                                                <li><label><input data-keyword="suport-tv-tavan" type="checkbox" name="category" value="264"><span class="sf-name">Suport TV tavan (2)</span> </label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-availability " data-id="availability">
+    <div class="box-heading">Disponibilitate</div>
+    <div class="box-content">
+        <ul>
+            <li><label><input type="checkbox" value="1" ><span class="sf-name">În stoc</span></label></li>
+            <li><label><input type="checkbox" value="0" ><span class="sf-name">Stoc epuizat</span></label></li>
+        </ul>
+    </div>
+</div>    </div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/filters&amp;module_id=54&amp;filters=%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D100&amp;oc_route=product%2Fcategory&amp;path=261&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 20:47:33 UTC-->

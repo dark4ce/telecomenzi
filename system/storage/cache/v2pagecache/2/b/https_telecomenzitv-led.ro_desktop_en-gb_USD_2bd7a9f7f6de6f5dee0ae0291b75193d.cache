@@ -1,0 +1,18 @@
+<table class="table table-striped table-bordered">
+  <tr>
+    <td style="width: 50%;"><strong>Violeta Anton</strong></td>
+    <td class="text-right">26.08.2016</td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Foarte buna. Raspunde imediat la comenzi, asa ca este exact ceea ce imi trebuia. Multumesc !</p>
+                  <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+            </td>
+  </tr>
+</table>
+<div class="text-right"></div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=product/product/review&amp;product_id=579] (en-gb/USD) expires: 2017-12-03 17:44:42 UTC-->

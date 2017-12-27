@@ -1,0 +1,1210 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.sort_order&amp;order=ASC">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=ASC">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=DESC" selected="selected">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-50 lg-33 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00622a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00622a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00622A LED / LCD" alt="Telecomandă Samsung AA59-00622A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00622a-led-lcd">Telecomandă Samsung AA59-00622A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00622A
+Telecomanda Samsung AA59-00622A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                        <div class="rating">
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                    </div>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('663');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('663');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('663');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-universala-samsung-smart-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-universala-samsung-smart-led-lcd-225x300.jpg" title="Telecomandă universală Samsung Smart LED LCD" alt="Telecomandă universală Samsung Smart LED LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-universala-samsung-smart-led-lcd">Telecomandă universală Samsung Smart LED LCD</a></h4>
+                    <p class="description">Telecomandă universală Samsung Smart LED LCD
+Telecomanda universală Samsung Smart LED LCD este compatibilă cu toate televizoarele ..</p>
+                                                            <p class="price">
+                                                35,00 Lei                                                                        <span class="price-tax">Fără TVA: 35,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('696');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('696');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('696');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-uct-043-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-uct-043-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung UCT-043 LED / LCD Smart 3D" alt="Telecomandă Samsung UCT-043 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-uct-043-led-lcd-smart-3d">Telecomandă Samsung UCT-043 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung UCT-043 Smart 3D
+Telecomanda Samsung UCT-043 Smart 3D este din punct de vedere al aspectului și funcționalităț..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('695');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('695');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('695');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-uct-034-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-uct-034-led-lcd-225x300.jpg" title="Telecomandă Samsung UCT-034 LED / LCD" alt="Telecomandă Samsung UCT-034 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-uct-034-led-lcd">Telecomandă Samsung UCT-034 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung UCT-034
+Telecomanda Samsung UCT-034 este din punct de vedere al aspectului și funcționalității identică cu tel..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('694');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('694');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('694');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-ld603-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-rm-ld603-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung RM-LD603 LED / LCD Smart 3D" alt="Telecomandă Samsung RM-LD603 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-ld603-led-lcd-smart-3d">Telecomandă Samsung RM-LD603 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung RM-LD603 Smart 3D
+Telecomanda Samsung RM-LD603 Smart 3D este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('693');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('693');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('693');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-l919-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-rm-l919-led-lcd-225x300.jpg" title="Telecomandă Samsung RM-L919 LED / LCD" alt="Telecomandă Samsung RM-L919 LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-l919-led-lcd">Telecomandă Samsung RM-L919 LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung RM-L919
+Telecomanda Samsung RM-L919 este din punct de vedere al aspectului și funcționalității identică cu tel..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('692');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('692');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('692');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-d1078-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-rm-d1078-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung RM-D1078 LED / LCD Smart 3D" alt="Telecomandă Samsung RM-D1078 LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-rm-d1078-led-lcd-smart-3d">Telecomandă Samsung RM-D1078 LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung RM-D1078
+Telecomanda Samsung RM-D1078 este din punct de vedere al aspectului și funcționalității identică cu t..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('691');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('691');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('691');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01247a-smart-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-BN59-01247A-smart-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01247A Smart LED / LCD" alt="Telecomandă Samsung BN59-01247A Smart LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01247a-smart-led-lcd">Telecomandă Samsung BN59-01247A Smart LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01247A Smart
+Telecomanda Samsung BN59-01247A Smart este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('690');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('690');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('690');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01175n-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01175n-smart-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01175N LED / LCD Smart" alt="Telecomandă Samsung BN59-01175N LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01175n-led-lcd-smart">Telecomandă Samsung BN59-01175N LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01175N Smart
+Telecomanda Samsung BN59-01175N Smart este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('689');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('689');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('689');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01078a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01078a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01078A LED / LCD" alt="Telecomandă Samsung BN59-01078A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01078a-led-lcd">Telecomandă Samsung BN59-01078A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01078A
+Telecomanda Samsung BN59-01078A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('688');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('688');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('688');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01069a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01069a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01069A LED / LCD" alt="Telecomandă Samsung BN59-01069A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01069a-led-lcd">Telecomandă Samsung BN59-01069A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01069A
+Telecomanda Samsung BN59-01069A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('687');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('687');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('687');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01041a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01041a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01041A LED / LCD" alt="Telecomandă Samsung BN59-01041A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01041a-led-lcd">Telecomandă Samsung BN59-01041A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01041A
+Telecomanda Samsung BN59-01041A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('686');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('686');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('686');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01039a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01039a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01039A LED / LCD" alt="Telecomandă Samsung BN59-01039A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01039a-led-lcd">Telecomandă Samsung BN59-01039A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01039A
+Telecomanda Samsung BN59-01039A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('685');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('685');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('685');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01031a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01031a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01031A LED / LCD" alt="Telecomandă Samsung BN59-01031A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01031a-led-lcd">Telecomandă Samsung BN59-01031A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01031A
+Telecomanda Samsung BN59-01031A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('684');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('684');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('684');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01015a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01015a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01015A LED / LCD" alt="Telecomandă Samsung BN59-01015A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01015a-led-lcd">Telecomandă Samsung BN59-01015A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01015A
+Telecomanda Samsung BN59-01015A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('683');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('683');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('683');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01009a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-01009a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-01009A LED / LCD" alt="Telecomandă Samsung BN59-01009A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-01009a-led-lcd">Telecomandă Samsung BN59-01009A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-01009A
+Telecomanda Samsung BN59-01009A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('682');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('682');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('682');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00996a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-BN59-00996A-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00996A LED / LCD" alt="Telecomandă Samsung BN59-00996A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00996a-led-lcd">Telecomandă Samsung BN59-00996A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00996A
+Telecomanda Samsung BN59-00996A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('681');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('681');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('681');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00940a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00940a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00940A LED / LCD" alt="Telecomandă Samsung BN59-00940A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00940a-led-lcd">Telecomandă Samsung BN59-00940A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00940A
+Telecomanda Samsung BN59-00940A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('680');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('680');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('680');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00865a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00865a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00865A LED / LCD" alt="Telecomandă Samsung BN59-00865A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00865a-led-lcd">Telecomandă Samsung BN59-00865A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00865A
+Telecomanda Samsung BN59-00865A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('679');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('679');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('679');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00863a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00863a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00863A LED / LCD" alt="Telecomandă Samsung BN59-00863A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00863a-led-lcd">Telecomandă Samsung BN59-00863A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00863A
+Telecomanda Samsung BN59-00863A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('678');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('678');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('678');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00862a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00862-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00862A LED / LCD" alt="Telecomandă Samsung BN59-00862A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00862a-led-lcd">Telecomandă Samsung BN59-00862A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00862A
+Telecomanda Samsung BN59-00862A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('677');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('677');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('677');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00690a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00690a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00690A LED / LCD" alt="Telecomandă Samsung BN59-00690A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00690a-led-lcd">Telecomandă Samsung BN59-00690A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00690A
+Telecomanda Samsung BN59-00690A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('676');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('676');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('676');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00684b-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00684b-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00684B LED / LCD" alt="Telecomandă Samsung BN59-00684B LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00684b-led-lcd">Telecomandă Samsung BN59-00684B LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00684B
+Telecomanda Samsung BN59-00684B este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('675');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('675');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('675');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00611a-rm-075-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00611a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00611A (RM-075) LED / LCD" alt="Telecomandă Samsung BN59-00611A (RM-075) LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00611a-rm-075-led-lcd">Telecomandă Samsung BN59-00611A (RM-075) LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00611A (RM-075)
+Telecomanda Samsung BN59-00611A (RM-075) este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('674');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('674');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('674');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00609a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00609a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00609A LED / LCD" alt="Telecomandă Samsung BN59-00609A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00609a-led-lcd">Telecomandă Samsung BN59-00609A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00609A
+Telecomanda Samsung BN59-00609A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('673');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('673');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('673');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00531a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00531a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00531A LED / LCD" alt="Telecomandă Samsung BN59-00531A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00531a-led-lcd">Telecomandă Samsung BN59-00531A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00531A
+Telecomanda Samsung BN59-00531A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('672');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('672');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('672');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00512a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00512a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00512A LED / LCD" alt="Telecomandă Samsung BN59-00512A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00512a-led-lcd">Telecomandă Samsung BN59-00512A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00512A
+Telecomanda Samsung BN59-00512A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('671');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('671');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('671');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00509a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00509a-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00509A LED / LCD Smart 3D" alt="Telecomandă Samsung BN59-00509A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00509a-led-lcd-smart-3d">Telecomandă Samsung BN59-00509A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00509A Smart 3D
+Telecomanda Samsung BN59-00509A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('670');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('670');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('670');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00488a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-bn59-00488a-led-lcd-225x300.jpg" title="Telecomandă Samsung BN59-00488A LED / LCD" alt="Telecomandă Samsung BN59-00488A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-bn59-00488a-led-lcd">Telecomandă Samsung BN59-00488A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung BN59-00488A
+Telecomanda Samsung BN59-00488A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('669');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('669');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('669');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-10129c" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-samsung-aa59-10129C-225x300.jpg" title="Telecomandă Samsung AA59-10129C" alt="Telecomandă Samsung AA59-10129C" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-10129c">Telecomandă Samsung AA59-10129C</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-10129C
+Telecomanda Samsung AA59-10129C este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                18,00 Lei                                                                        <span class="price-tax">Fără TVA: 18,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('462');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('462');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('462');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-10075k" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-tv-samsung-AA59-10075K-225x300.jpg" title="Telecomandă Samsung AA59-10075K" alt="Telecomandă Samsung AA59-10075K" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-10075k">Telecomandă Samsung AA59-10075K</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00104K
+Telecomanda Samsung AA59-10075K este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                17,00 Lei                                                                        <span class="price-tax">Fără TVA: 17,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('457');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('457');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('457');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00795a-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00795a-smart-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00795A LED / LCD Smart" alt="Telecomandă Samsung AA59-00795A LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00795a-led-lcd-smart">Telecomandă Samsung AA59-00795A LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00795A Smart
+Telecomanda Samsung AA59-00795A Smart este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('668');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('668');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('668');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00786a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00786a-led-lcd-smart-3d-225x300.jpg" title="Telecomandă Samsung AA59-00786A LED / LCD Smart 3D" alt="Telecomandă Samsung AA59-00786A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00786a-led-lcd-smart-3d">Telecomandă Samsung AA59-00786A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00786A Smart 3D
+Telecomanda Samsung AA59-00786A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('667');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('667');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('667');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00743a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00743a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00743A LED / LCD" alt="Telecomandă Samsung AA59-00743A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00743a-led-lcd">Telecomandă Samsung AA59-00743A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00743A
+Telecomanda Samsung AA59-00743A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('666');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('666');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('666');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00741a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00741a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00741A LED / LCD" alt="Telecomandă Samsung AA59-00741A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00741a-led-lcd">Telecomandă Samsung AA59-00741A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00741A
+Telecomanda Samsung AA59-00741A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('665');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('665');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('665');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00638a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00638a-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00638A LED / LCD Smart 3D" alt="Telecomandă Samsung AA59-00638A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00638a-led-lcd-smart-3d">Telecomandă Samsung AA59-00638A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00638A Smart 3D
+Telecomanda Samsung AA59-00638A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('664');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('664');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('664');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00607a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00607a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00607A LED / LCD" alt="Telecomandă Samsung AA59-00607A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00607a-led-lcd">Telecomandă Samsung AA59-00607A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00607A
+Telecomanda Samsung AA59-00607A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('662');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('662');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('662');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00602a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00602a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00602A LED / LCD" alt="Telecomandă Samsung AA59-00602A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00602a-led-lcd">Telecomandă Samsung AA59-00602A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00602A
+Telecomanda Samsung AA59-00602A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('661');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('661');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('661');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00594a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00594a-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00594A LED / LCD Smart 3D" alt="Telecomandă Samsung AA59-00594A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00594a-led-lcd-smart-3d">Telecomandă Samsung AA59-00594A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00594A Smart 3D
+Telecomanda Samsung AA59-00594A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('660');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('660');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('660');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00588a-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00588a-smart-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00588A LED / LCD Smart" alt="Telecomandă Samsung AA59-00588A LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00588a-led-lcd-smart">Telecomandă Samsung AA59-00588A LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00588A Smart
+Telecomanda Samsung AA59-00588A Smart este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('659');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('659');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('659');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00582a-led-lcd-smart" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00582a-smart-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00582A LED / LCD Smart" alt="Telecomandă Samsung AA59-00582A LED / LCD Smart" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00582a-led-lcd-smart">Telecomandă Samsung AA59-00582A LED / LCD Smart</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00582A Smart
+Telecomanda Samsung AA59-00582A Smart este din punct de vedere al aspectului și funcționalit..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('658');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('658');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('658');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00581a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00581a-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00581A LED / LCD Smart 3D" alt="Telecomandă Samsung AA59-00581A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00581a-led-lcd-smart-3d">Telecomandă Samsung AA59-00581A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00581A Smart 3D
+Telecomanda Samsung AA59-00581A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('657');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('657');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('657');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00560a-led-lcd-smart-3d" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00560a-smart-3d-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00560A LED / LCD Smart 3D" alt="Telecomandă Samsung AA59-00560A LED / LCD Smart 3D" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00560a-led-lcd-smart-3d">Telecomandă Samsung AA59-00560A LED / LCD Smart 3D</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00560A Smart 3D
+Telecomanda Samsung AA59-00560A Smart 3D este din punct de vedere al aspectului și funcți..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('656');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('656');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('656');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00465a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00465a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00465A LED / LCD" alt="Telecomandă Samsung AA59-00465A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00465a-led-lcd">Telecomandă Samsung AA59-00465A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00465A
+Telecomanda Samsung AA59-00465A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                24,00 Lei                                                                        <span class="price-tax">Fără TVA: 24,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('655');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('655');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('655');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00332a-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-samsung-aa59-00332a-led-lcd-225x300.jpg" title="Telecomandă Samsung AA59-00332A LED / LCD" alt="Telecomandă Samsung AA59-00332A LED / LCD" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/telecomanda-samsung-aa59-00332a-led-lcd">Telecomandă Samsung AA59-00332A LED / LCD</a></h4>
+                    <p class="description">Telecomandă Samsung AA59-00332A
+Telecomanda Samsung AA59-00332A este din punct de vedere al aspectului și funcționalității identic..</p>
+                                                            <p class="price">
+                                                21,00 Lei                                                                        <span class="price-tax">Fără TVA: 21,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('654');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('654');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('654');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"><ul class="pagination"><li class="active"><span>1</span></li><li><a href="https://telecomenzitv-led.ro/telecomanda-samsung?page=2">2</a></li><li><a href="https://telecomenzitv-led.ro/telecomanda-samsung?page=2">&gt;</a></li><li><a href="https://telecomenzitv-led.ro/telecomanda-samsung?page=2">&gt;|</a></li></ul></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 45 din 73 (2 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsort%3Drating%2Forder%3DDESC%2Flimit%3D45&amp;oc_route=product%2Fmanufacturer%2Finfo&amp;path=&amp;manufacturer_id=61&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-04 15:23:38 UTC-->

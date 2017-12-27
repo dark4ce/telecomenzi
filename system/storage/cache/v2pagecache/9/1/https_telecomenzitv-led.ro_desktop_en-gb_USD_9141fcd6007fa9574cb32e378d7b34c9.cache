@@ -1,0 +1,357 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.sort_order&amp;order=ASC" selected="selected">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=ASC">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/manufacturer/info&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-50 lg-33 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF308-001-996590000449" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF308-001-996590000449-led-smart-225x300.jpg" title="Telecomandă originală Philips YKF308-001 (996590000449)" alt="Telecomandă originală Philips YKF308-001 (996590000449)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF308-001-996590000449">Telecomandă originală Philips YKF308-001 (996590000449)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF308-001 (996590000449) Smart
+ 
+Telecomanda originală Philips YKF308-001 (996590000449) Smart este..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('788');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('788');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('788');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF309-00B-242254990467" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF309-00B-242254990467-smart-led-225x300.jpg" title="Telecomandă originală Philips YKF309-00B (242254990467)" alt="Telecomandă originală Philips YKF309-00B (242254990467)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF309-00B-242254990467">Telecomandă originală Philips YKF309-00B (242254990467)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF309-00B (242254990467) Smart
+ 
+Telecomanda originală Philips YKF309-00B (242254990467) Smart este..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('789');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('789');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('789');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF314-005-996590004895" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF314-005-smart-3d-led-225x300.jpg" title="Telecomandă originală Philips YKF314-005 (996590004895)" alt="Telecomandă originală Philips YKF314-005 (996590004895)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF314-005-996590004895">Telecomandă originală Philips YKF314-005 (996590004895)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF314-005 (996590004895) Smart 3D
+ 
+Telecomanda originală Philips YKF314-005 (996590004895) Smart 3..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('790');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('790');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('790');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF319-001-242254990636"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF319-001-242254990636-smart-3d-led-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF319-001-242254990636-smart-3d-led-225x300.jpg" title="Telecomandă originală Philips YKF319-001 (242254990636)" alt="Telecomandă originală Philips YKF319-001 (242254990636)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF319-001-242254990636">Telecomandă originală Philips YKF319-001 (242254990636)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF319-001 (242254990636) Smart 3D
+ 
+Telecomanda originală Philips YKF319-001 (242254990636) Smart 3..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('791');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('791');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('791');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF346-001-996590009359" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF346-001-996590009359-led-smart-225x300.jpg" title="Telecomandă originală Philips YKF346-001 (996590009359) " alt="Telecomandă originală Philips YKF346-001 (996590009359) " />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF346-001-996590009359">Telecomandă originală Philips YKF346-001 (996590009359) </a></h4>
+                    <p class="description">Telecomandă originală Philips YKF346-001 (996590009359) Smart
+ 
+Telecomanda originală Philips YKF346-001 (996590009359) Smart este..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('787');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('787');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('787');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF348-001-996590020164" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF348-001-996590020164-smart-led-225x300.jpg" title="Telecomandă originală Philips YKF348-001 (996590020164)" alt="Telecomandă originală Philips YKF348-001 (996590020164)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF348-001-996590020164">Telecomandă originală Philips YKF348-001 (996590020164)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF348-001 (996590020164) Smart
+ 
+Telecomanda originală Philips YKF348-001 (996590020164) Smart este..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('792');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('792');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('792');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF348-005-996595005425" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF348-005-996595005425-smart-netflix-led-225x300.jpg" title="Telecomandă originală Philips YKF348-005 (996595005425)" alt="Telecomandă originală Philips YKF348-005 (996595005425)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF348-005-996595005425">Telecomandă originală Philips YKF348-005 (996595005425)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF348-005 (996595005425) Smart Netflix
+ 
+Telecomanda originală Philips YKF348-005 (996595005425) Sm..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('793');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('793');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('793');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF352-004-996595005066"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF352-004-996595005066-smart-netflix-led-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF352-004-996595005066-smart-netflix-led-225x300.jpg" title="Telecomandă originală Philips YKF352-004 (996595005066)" alt="Telecomandă originală Philips YKF352-004 (996595005066)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF352-004-996595005066">Telecomandă originală Philips YKF352-004 (996595005066)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF352-004 (996595005066) Smart Netflix
+ 
+Telecomanda originală Philips YKF352-004 (996595005066) Sm..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('794');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('794');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('794');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF352-B03-996595006405"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF352-B03-996595006405-smart-netflix-led-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF352-B03-996595006405-smart-netflix-led-225x300.jpg" title="Telecomandă originală Philips YKF352-B03 (996595006405)" alt="Telecomandă originală Philips YKF352-B03 (996595006405)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF352-B03-996595006405">Telecomandă originală Philips YKF352-B03 (996595006405)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF352-B03 (996595006405) Smart Netflix 
+ 
+Telecomanda originală Philips YKF352-B03 (996595006405) S..</p>
+                                                            <p class="price">
+                                                170,00 Lei                                                                        <span class="price-tax">Fără TVA: 170,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('795');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('795');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('795');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF354-001-996590009952"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF354-001-996590009952-smart-led-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF354-001-996590009952-smart-led-225x300.jpg" title="Telecomandă originală Philips YKF354-001 (996590009952)" alt="Telecomandă originală Philips YKF354-001 (996590009952)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF354-001-996590009952">Telecomandă originală Philips YKF354-001 (996590009952)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF354-001 (996590009952) Smart
+ 
+Telecomanda originală Philips YKF354-001 (996590009952) Smart este..</p>
+                                                            <p class="price">
+                                                250,00 Lei                                                                        <span class="price-tax">Fără TVA: 250,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('796');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('796');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('796');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF355-005-996590021453"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF355-005-smart-led-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF355-005-smart-led-225x300.jpg" title="Telecomandă originală Philips YKF355-005 (996590021453)" alt="Telecomandă originală Philips YKF355-005 (996590021453)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF355-005-996590021453">Telecomandă originală Philips YKF355-005 (996590021453)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF355-005 (996590021453) Smart
+ 
+Telecomanda originală Philips YKF355-005 (996590021453) Smart este..</p>
+                                                            <p class="price">
+                                                250,00 Lei                                                                        <span class="price-tax">Fără TVA: 250,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('797');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('797');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('797');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF384-T03-996595006463" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/telecomanda-originala-philips-YKF384-T03-996595006463-smart-netflix-led-225x300.jpg" title="Telecomandă originală Philips YKF384-T03 (996595006463)" alt="Telecomandă originală Philips YKF384-T03 (996595006463)" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/Telecomanda-Originala-Philips-YKF384-T03-996595006463">Telecomandă originală Philips YKF384-T03 (996595006463)</a></h4>
+                    <p class="description">Telecomandă originală Philips YKF384-T03 (996595006463) Smart
+ 
+Telecomanda originală Philips YKF384-T03 (996595006463) Smart este..</p>
+                                                            <p class="price">
+                                                250,00 Lei                                                                        <span class="price-tax">Fără TVA: 250,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('798');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('798');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('798');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 12 din 12 (1 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fphilips-c167%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D45&amp;oc_route=product%2Fmanufacturer%2Finfo&amp;path=&amp;manufacturer_id=58&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-04 10:45:56 UTC-->

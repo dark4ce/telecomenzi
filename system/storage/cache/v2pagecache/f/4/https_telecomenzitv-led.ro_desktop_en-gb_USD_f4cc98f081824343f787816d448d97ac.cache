@@ -1,0 +1,348 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.sort_order&amp;order=ASC">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=ASC" selected="selected">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-33 lg-20 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-perete-fix-23-42-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-perete-fix-23-42-inch-070-225x300.jpg" title="Suport TV de perete LCD LED 23-42&quot; fix" alt="Suport TV de perete LCD LED 23-42&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-perete-fix-23-42-inch">Suport TV de perete LCD LED 23-42&quot; fix</a></h4>
+                    <p class="description">Suport TV de perete LCD LED 23"-42" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizo..</p>
+                                                            <p class="price">
+                                                30,00 Lei                                                                        <span class="price-tax">Fără TVA: 30,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('842');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('842');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('842');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-32-55-inch-led-lcd-fix" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-32-55-inch-led-lcd-fix-225x300.jpg" title="Suport TV de perete LCD LED 32-55&quot; fix" alt="Suport TV de perete LCD LED 32-55&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-32-55-inch-led-lcd-fix">Suport TV de perete LCD LED 32-55&quot; fix</a></h4>
+                    <p class="description">Suport TV de perete LCD LED 32"-55" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizo..</p>
+                                                            <p class="price">
+                                                45,00 Lei                                                                        <span class="price-tax">Fără TVA: 45,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('844');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('844');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('844');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-37-70-inch-fix-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-37-70-inch-fix-led-lcd-072-225x300.jpg" title="Suport TV de perete LCD LED 37-70&quot; fix" alt="Suport TV de perete LCD LED 37-70&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-37-70-inch-fix-led-lcd">Suport TV de perete LCD LED 37-70&quot; fix</a></h4>
+                    <p class="description">Suport TV de perete LCD LED 37"-70" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizo..</p>
+                                                            <p class="price">
+                                                50,00 Lei                                                                        <span class="price-tax">Fără TVA: 50,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('845');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('845');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('845');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-fix-10-27-inch-perete" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-fix%20-10-27-inch-perete-225x300.jpg" title="Suport TV LCD LED 10-27" fix" alt="Suport TV LCD LED 10-27" fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-fix-10-27-inch-perete">Suport TV LCD LED 10-27" fix</a></h4>
+                    <p class="description">Suport TV LCD LED 10"-27" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diago..</p>
+                                                            <p class="price">
+                                                15,00 Lei                                                                        <span class="price-tax">Fără TVA: 15,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('835');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('835');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('835');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-de-perete-fix-17-42-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-de-perete-fix-17-42-inch-3011-225x300.jpg" title="Suport TV LCD LED 17"-42" fix" alt="Suport TV LCD LED 17"-42" fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-de-perete-fix-17-42-inch">Suport TV LCD LED 17"-42" fix</a></h4>
+                    <p class="description">Suport TV de perete LCD LED 17"-42" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizo..</p>
+                                                            <p class="price">
+                                                49,00 Lei                                                                        <span class="price-tax">Fără TVA: 49,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('840');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('840');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('840');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-lcd-led-17-42-inch-fix" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-de-perete-17-37-inch-111-225x300.jpg" title="Suport TV LCD LED 17&quot;-42&quot; fix" alt="Suport TV LCD LED 17&quot;-42&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-lcd-led-17-42-inch-fix">Suport TV LCD LED 17&quot;-42&quot; fix</a></h4>
+                    <p class="description">Suport TV LCD LED 17"-42" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diago..</p>
+                                                            <p class="price">
+                                                99,00 Lei                                                                        <span class="price-tax">Fără TVA: 99,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('839');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('839');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('839');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/Suport-TV-Fix-Led-Lcd-23-42-Inch"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/Suport-TV-Fix-Perete-Led-Lcd-23-42-Inch-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/Suport-TV-Fix-Led-Lcd-23-42-Inch-225x300.jpg" title="Suport TV LCD LED 23"-42" fix" alt="Suport TV LCD LED 23"-42" fix" />
+                </a>
+                                                <span class="label-latest"><b>NOU</b></span>
+                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/Suport-TV-Fix-Led-Lcd-23-42-Inch">Suport TV LCD LED 23"-42" fix</a></h4>
+                    <p class="description">Suport TV LCD LED 23" - 42" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu dia..</p>
+                                                            <p class="price">
+                                                115,00 Lei                                                                        <span class="price-tax">Fără TVA: 115,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('875');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('875');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('875');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-26-55-inch-fix-led-lcd" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-26-55-inch-fix-led-lcd-3012-225x300.jpg" title="Suport TV LCD LED 26&quot;-55&quot; fix" alt="Suport TV LCD LED 26&quot;-55&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-26-55-inch-fix-led-lcd">Suport TV LCD LED 26&quot;-55&quot; fix</a></h4>
+                    <p class="description">Suport TV de perete LCD LED 26"-55" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizo..</p>
+                                                            <p class="price">
+                                                40,00 Lei                                                                        <span class="price-tax">Fără TVA: 40,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('843');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('843');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('843');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-led-lcd-plasma-30-70-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-plasma-universal-negru-30-70-inch-225x300.jpg" title="Suport TV LCD LED 30"-70" fix" alt="Suport TV LCD LED 30"-70" fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-led-lcd-plasma-30-70-inch">Suport TV LCD LED 30"-70" fix</a></h4>
+                    <p class="description">Suport TV LCD LED 30"-70" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diago..</p>
+                                                            <p class="price">
+                                                175,00 Lei                                                                        <span class="price-tax">Fără TVA: 175,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('847');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('847');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('847');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/Suport-TV-Fix-32-60-Inch"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/Suport-TV-Fix-Perete-Led-Lcd-23-42-Inch-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/Suport-TV-Fix-32-60-Inch-225x300.jpg" title="Suport TV LCD LED 32"-60" fix" alt="Suport TV LCD LED 32"-60" fix" />
+                </a>
+                                                <span class="label-latest"><b>NOU</b></span>
+                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/Suport-TV-Fix-32-60-Inch">Suport TV LCD LED 32"-60" fix</a></h4>
+                    <p class="description">Suport TV LCD LED 32" - 60" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu dia..</p>
+                                                            <p class="price">
+                                                125,00 Lei                                                                        <span class="price-tax">Fără TVA: 125,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('876');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('876');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('876');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-fix-17-42-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-fix-17-42-inch-3001-225x300.jpg" title="Suport TV LED LCD 17&quot;-42&quot; fix" alt="Suport TV LED LCD 17&quot;-42&quot; fix" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-fix-17-42-inch">Suport TV LED LCD 17&quot;-42&quot; fix</a></h4>
+                    <p class="description">Suport TV LCD LED 17"-42" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diago..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('838');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('838');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('838');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-led-lcd-42-63-inch-fix" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-led-lcd-42-63-inch-fix-225x300.jpg" title="Suport TV LED LCD 42"- 63" fix" alt="Suport TV LED LCD 42"- 63" fix" />
+                </a>
+                                                <span class="label-latest"><b>NOU</b></span>
+                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-fix/suport-tv-led-lcd-42-63-inch-fix">Suport TV LED LCD 42"- 63" fix</a></h4>
+                    <p class="description">Suport TV LCD LED 42"- 63" fix
+Suport TV fix pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diag..</p>
+                                                            <p class="price">
+                                                149,00 Lei                                                                        <span class="price-tax">Fără TVA: 149,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('874');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('874');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('874');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 12 din 12 (1 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsort%3Dpd.name%2Forder%3DASC%2Flimit%3D45&amp;oc_route=product%2Fcategory&amp;path=262&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-04 13:24:13 UTC-->

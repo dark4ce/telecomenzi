@@ -1,0 +1,116 @@
+<div id="journal-super-filter-54" class="journal-sf filter-collapse " data-filters-action="index.php?route=module/journal2_super_filter/filters&amp;module_id=54" data-products-action="index.php?route=module/journal2_super_filter/products&amp;module_id=54" data-route="module/journal2_super_filter/filters" data-path="172" data-manufacturer="" data-search="" data-tag=""  data-loading-text="" data-currency-left="" data-currency-right=" Lei" data-currency-decimal="," data-currency-thousand="." data-category_id="" data-sub_category="" data-st="E.R.">
+        <a class="sf-reset hint--top sf-icon" data-hint=""><span class="sf-reset-text"></span><i class="sf-reset-icon"></i></a>
+        <input type="hidden" class="sf-page" value="" />
+        <div class="sf-price  box " data-id="price" data-min-price="20" data-max-price="550">
+    <div class="box-heading">Preţ</div>
+    <div class="box-content">
+                <section class="slider" data-min-value="20" data-max-value="550"></section>
+            </div>
+</div>        <div class="box sf-category sf-list sf-multi " data-id="category">
+    <div class="box-heading">Categorii</div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="akai" type="checkbox" name="category" value="173"><span class="sf-name">Akai (19)</span> </label></li>
+                                                <li><label><input data-keyword="akira" type="checkbox" name="category" value="174"><span class="sf-name">Akira (6)</span> </label></li>
+                                                <li><label><input data-keyword="beko" type="checkbox" name="category" value="175"><span class="sf-name">Beko (3)</span> </label></li>
+                                                <li><label><input data-keyword="blaupunkt" type="checkbox" name="category" value="176"><span class="sf-name">Blaupunkt (1)</span> </label></li>
+                                                <li><label><input data-keyword="bush" type="checkbox" name="category" value="177"><span class="sf-name">Bush (3)</span> </label></li>
+                                                <li><label><input data-keyword="daewoo" type="checkbox" name="category" value="179"><span class="sf-name">Daewoo (2)</span> </label></li>
+                                                <li><label><input data-keyword="e-boda" type="checkbox" name="category" value="178"><span class="sf-name">E-boda (3)</span> </label></li>
+                                                <li><label><input data-keyword="exclusiv" type="checkbox" name="category" value="180"><span class="sf-name">Exclusiv (3)</span> </label></li>
+                                                <li><label><input data-keyword="finlux" type="checkbox" name="category" value="181"><span class="sf-name">Finlux (6)</span> </label></li>
+                                                <li><label><input data-keyword="funai" type="checkbox" name="category" value="182"><span class="sf-name">Funai (3)</span> </label></li>
+                                                <li><label><input data-keyword="grundig" type="checkbox" name="category" value="183"><span class="sf-name">Grundig (8)</span> </label></li>
+                                                <li><label><input data-keyword="haier" type="checkbox" name="category" value="184"><span class="sf-name">Haier (3)</span> </label></li>
+                                                <li><label><input data-keyword="heru" type="checkbox" name="category" value="185"><span class="sf-name">Heru (1)</span> </label></li>
+                                                <li><label><input data-keyword="hisense" type="checkbox" name="category" value="186"><span class="sf-name">Hisense (1)</span> </label></li>
+                                                <li><label><input data-keyword="hitachi" type="checkbox" name="category" value="187"><span class="sf-name">Hitachi (2)</span> </label></li>
+                                                <li><label><input data-keyword="horizon" type="checkbox" name="category" value="188"><span class="sf-name">Horizon (4)</span> </label></li>
+                                                <li><label><input data-keyword="hyundai" type="checkbox" name="category" value="189"><span class="sf-name">Hyundai (5)</span> </label></li>
+                                                <li><label><input data-keyword="jvc" type="checkbox" name="category" value="190"><span class="sf-name">Jvc (1)</span> </label></li>
+                                                <li><label><input data-keyword="lg" type="checkbox" name="category" value="191"><span class="sf-name">LG (69)</span> </label></li>
+                                                <li><label><input data-keyword="myria" type="checkbox" name="category" value="192"><span class="sf-name">Myria (1)</span> </label></li>
+                                                <li><label><input data-keyword="oki" type="checkbox" name="category" value="193"><span class="sf-name">Oki (1)</span> </label></li>
+                                                <li><label><input data-keyword="orion" type="checkbox" name="category" value="195"><span class="sf-name">Orion (5)</span> </label></li>
+                                                <li><label><input data-keyword="panasonic" type="checkbox" name="category" value="196"><span class="sf-name">Panasonic (8)</span> </label></li>
+                                                <li><label><input data-keyword="philips" type="checkbox" name="category" value="197"><span class="sf-name">Philips (29)</span> </label></li>
+                                                <li><label><input data-keyword="platinium" type="checkbox" name="category" value="198"><span class="sf-name">Platinium (2)</span> </label></li>
+                                                <li><label><input data-keyword="samsung" type="checkbox" name="category" value="199"><span class="sf-name">Samsung (67)</span> </label></li>
+                                                <li><label><input data-keyword="sanyo" type="checkbox" name="category" value="259"><span class="sf-name">Sanyo (3)</span> </label></li>
+                                                <li><label><input data-keyword="sharp" type="checkbox" name="category" value="200"><span class="sf-name">Sharp (14)</span> </label></li>
+                                                <li><label><input data-keyword="sony" type="checkbox" name="category" value="201"><span class="sf-name">Sony (19)</span> </label></li>
+                                                <li><label><input data-keyword="sunny" type="checkbox" name="category" value="202"><span class="sf-name">Sunny (2)</span> </label></li>
+                                                <li><label><input data-keyword="techwood" type="checkbox" name="category" value="203"><span class="sf-name">Techwood (1)</span> </label></li>
+                                                <li><label><input data-keyword="thomson" type="checkbox" name="category" value="204"><span class="sf-name">Thomson (2)</span> </label></li>
+                                                <li><label><input data-keyword="toshiba" type="checkbox" name="category" value="205"><span class="sf-name">Toshiba (10)</span> </label></li>
+                                                <li><label><input data-keyword="utok" type="checkbox" name="category" value="206"><span class="sf-name">Utok (1)</span> </label></li>
+                                                <li><label><input data-keyword="vestel" type="checkbox" name="category" value="207"><span class="sf-name">Vestel (25)</span> </label></li>
+                                                <li><label><input data-keyword="viewstar" type="checkbox" name="category" value="208"><span class="sf-name">Viewstar (1)</span> </label></li>
+                                                <li><label><input data-keyword="vortex" type="checkbox" name="category" value="209"><span class="sf-name">Vortex (9)</span> </label></li>
+                                                <li><label><input data-keyword="zander" type="checkbox" name="category" value="210"><span class="sf-name">Zander (3)</span> </label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-manufacturer sf-image sf-single " data-id="manufacturer">
+    <div class="box-heading">Producători</div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="akai" type="checkbox" name="manufacturer" value="18"><img width="77" height="30" data-hint="Akai (19)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-akai-77x30.jpg" alt="Akai (19)" title="Akai (19)"/></label></li>
+                                                <li><label><input data-keyword="akira" type="checkbox" name="manufacturer" value="19"><img width="77" height="30" data-hint="Akira (6)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-akira-77x30.jpg" alt="Akira (6)" title="Akira (6)"/></label></li>
+                                                <li><label><input data-keyword="beko" type="checkbox" name="manufacturer" value="22"><img width="77" height="30" data-hint="Beko (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-beko-77x30.jpg" alt="Beko (3)" title="Beko (3)"/></label></li>
+                                                <li><label><input data-keyword="blaupunkt" type="checkbox" name="manufacturer" value="23"><img width="77" height="30" data-hint="Blaupunkt (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-blaupunkt-77x30.jpg" alt="Blaupunkt (1)" title="Blaupunkt (1)"/></label></li>
+                                                <li><label><input data-keyword="bush" type="checkbox" name="manufacturer" value="25"><img width="77" height="30" data-hint="Bush (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-bush-77x30.jpg" alt="Bush (3)" title="Bush (3)"/></label></li>
+                                                <li><label><input data-keyword="daewoo" type="checkbox" name="manufacturer" value="27"><img width="77" height="30" data-hint="Daewoo (2)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-daewoo-77x30.jpg" alt="Daewoo (2)" title="Daewoo (2)"/></label></li>
+                                                <li><label><input data-keyword="e-boda" type="checkbox" name="manufacturer" value="31"><img width="77" height="30" data-hint="E-Boda (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-eboda-77x30.jpg" alt="E-Boda (3)" title="E-Boda (3)"/></label></li>
+                                                <li><label><input data-keyword="exclusiv" type="checkbox" name="manufacturer" value="33"><img width="77" height="30" data-hint="Exclusiv (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-exclusiv-77x30.jpg" alt="Exclusiv (3)" title="Exclusiv (3)"/></label></li>
+                                                <li><label><input data-keyword="finlux" type="checkbox" name="manufacturer" value="34"><img width="77" height="30" data-hint="Finlux (6)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-finlux-77x30.jpg" alt="Finlux (6)" title="Finlux (6)"/></label></li>
+                                                <li><label><input data-keyword="funai" type="checkbox" name="manufacturer" value="36"><img width="77" height="30" data-hint="Funai (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-funai-77x30.jpg" alt="Funai (3)" title="Funai (3)"/></label></li>
+                                                <li><label><input data-keyword="grundig" type="checkbox" name="manufacturer" value="40"><img width="77" height="30" data-hint="Grundig (8)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-grundig-77x30.jpg" alt="Grundig (8)" title="Grundig (8)"/></label></li>
+                                                <li><label><input data-keyword="haier" type="checkbox" name="manufacturer" value="41"><img width="77" height="30" data-hint="Haier (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-haier-77x30.jpg" alt="Haier (3)" title="Haier (3)"/></label></li>
+                                                <li><label><input data-keyword="heru" type="checkbox" name="manufacturer" value="39"><img width="77" height="30" data-hint="Heru (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-heru-77x30.jpg" alt="Heru (1)" title="Heru (1)"/></label></li>
+                                                <li><label><input data-keyword="hisense" type="checkbox" name="manufacturer" value="42"><img width="77" height="30" data-hint="Hisense (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-hisense-77x30.jpg" alt="Hisense (1)" title="Hisense (1)"/></label></li>
+                                                <li><label><input data-keyword="hitachi" type="checkbox" name="manufacturer" value="43"><img width="77" height="30" data-hint="Hitachi (2)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-hitachi-77x30.jpg" alt="Hitachi (2)" title="Hitachi (2)"/></label></li>
+                                                <li><label><input data-keyword="horizon" type="checkbox" name="manufacturer" value="44"><img width="77" height="30" data-hint="Horizon (4)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-horizon-77x30.jpg" alt="Horizon (4)" title="Horizon (4)"/></label></li>
+                                                <li><label><input data-keyword="hyundai" type="checkbox" name="manufacturer" value="46"><img width="77" height="30" data-hint="Hyundai (5)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-hyundai-77x30.jpg" alt="Hyundai (5)" title="Hyundai (5)"/></label></li>
+                                                <li><label><input data-keyword="jvc" type="checkbox" name="manufacturer" value="48"><img width="77" height="30" data-hint="Jvc (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-jvc-77x30.jpg" alt="Jvc (1)" title="Jvc (1)"/></label></li>
+                                                <li><label><input data-keyword="lg" type="checkbox" name="manufacturer" value="15"><img width="77" height="30" data-hint="LG (69)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-lg-77x30.jpg" alt="LG (69)" title="LG (69)"/></label></li>
+                                                <li><label><input data-keyword="myria" type="checkbox" name="manufacturer" value="51"><img width="77" height="30" data-hint="Myria (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-myria-77x30.jpg" alt="Myria (1)" title="Myria (1)"/></label></li>
+                                                <li><label><input data-keyword="oki" type="checkbox" name="manufacturer" value="53"><img width="77" height="30" data-hint="Oki (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-oki-77x30.jpg" alt="Oki (1)" title="Oki (1)"/></label></li>
+                                                <li><label><input data-keyword="orion" type="checkbox" name="manufacturer" value="55"><img width="77" height="30" data-hint="Orion (5)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-orion-77x30.jpg" alt="Orion (5)" title="Orion (5)"/></label></li>
+                                                <li><label><input data-keyword="panasonic" type="checkbox" name="manufacturer" value="57"><img width="77" height="30" data-hint="Panasonic (8)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-panasonic-77x30.jpg" alt="Panasonic (8)" title="Panasonic (8)"/></label></li>
+                                                <li><label><input data-keyword="philips" type="checkbox" name="manufacturer" value="58"><img width="77" height="30" data-hint="Philips (29)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-philips-77x30.jpg" alt="Philips (29)" title="Philips (29)"/></label></li>
+                                                <li><label><input data-keyword="platinium" type="checkbox" name="manufacturer" value="60"><img width="77" height="30" data-hint="Platinium (2)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-platinium-77x30.jpg" alt="Platinium (2)" title="Platinium (2)"/></label></li>
+                                                <li><label><input data-keyword="samsung" type="checkbox" name="manufacturer" value="61"><img width="77" height="30" data-hint="Samsung (67)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-samsung-77x30.jpg" alt="Samsung (67)" title="Samsung (67)"/></label></li>
+                                                <li><label><input data-keyword="sanyo" type="checkbox" name="manufacturer" value="62"><img width="77" height="30" data-hint="Sanyo (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-sanyo-77x30.jpg" alt="Sanyo (3)" title="Sanyo (3)"/></label></li>
+                                                <li><label><input data-keyword="sharp" type="checkbox" name="manufacturer" value="63"><img width="77" height="30" data-hint="Sharp (14)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-sharp-77x30.jpg" alt="Sharp (14)" title="Sharp (14)"/></label></li>
+                                                <li><label><input data-keyword="sony" type="checkbox" name="manufacturer" value="10"><img width="77" height="30" data-hint="Sony (19)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-sony-77x30.jpg" alt="Sony (19)" title="Sony (19)"/></label></li>
+                                                <li><label><input data-keyword="sunny" type="checkbox" name="manufacturer" value="64"><img width="77" height="30" data-hint="Sunny (2)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-sunny-77x30.jpg" alt="Sunny (2)" title="Sunny (2)"/></label></li>
+                                                <li><label><input data-keyword="techwood" type="checkbox" name="manufacturer" value="65"><img width="77" height="30" data-hint="Techwood (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-techwood-77x30.jpg" alt="Techwood (1)" title="Techwood (1)"/></label></li>
+                                                <li><label><input data-keyword="thomson" type="checkbox" name="manufacturer" value="68"><img width="77" height="30" data-hint="Thomson (2)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-thomson-77x30.jpg" alt="Thomson (2)" title="Thomson (2)"/></label></li>
+                                                <li><label><input data-keyword="toshiba" type="checkbox" name="manufacturer" value="69"><img width="77" height="30" data-hint="Toshiba (10)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-toshiba-77x30.jpg" alt="Toshiba (10)" title="Toshiba (10)"/></label></li>
+                                                <li><label><input data-keyword="utok" type="checkbox" name="manufacturer" value="70"><img width="77" height="30" data-hint="Utok (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-utok-77x30.jpg" alt="Utok (1)" title="Utok (1)"/></label></li>
+                                                <li><label><input data-keyword="vestel" type="checkbox" name="manufacturer" value="71"><img width="77" height="30" data-hint="Vestel (25)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-vestel-77x30.jpg" alt="Vestel (25)" title="Vestel (25)"/></label></li>
+                                                <li><label><input data-keyword="viewstar" type="checkbox" name="manufacturer" value="72"><img width="77" height="30" data-hint="Viewstar (1)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-viewstar-lcd-led-77x30.jpg" alt="Viewstar (1)" title="Viewstar (1)"/></label></li>
+                                                <li><label><input data-keyword="vortex" type="checkbox" name="manufacturer" value="73"><img width="77" height="30" data-hint="Vortex (9)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-vortex-77x30.jpg" alt="Vortex (9)" title="Vortex (9)"/></label></li>
+                                                <li><label><input data-keyword="zander" type="checkbox" name="manufacturer" value="74"><img width="77" height="30" data-hint="Zander (3)" src="https://telecomenzitv-led.ro/image/cache/marci-telecomenzi/telecomenzi-tv-zander-77x30.jpg" alt="Zander (3)" title="Zander (3)"/></label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-option sf-list sf-option-13 sf-multi " data-id="option-13">
+    <div class="box-heading"> </div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="r3-maxell-alcalne-2-bucăți" type="checkbox" name="option[13]" value="62"><span class="sf-name">R3 Maxell Alcalne (2 bucăți) (639)</span> </label></li>
+                                                <li><label><input data-keyword="r6-maxell-alcalne-2-bucăți" type="checkbox" name="option[13]" value="63"><span class="sf-name">R6 Maxell Alcalne (2 bucăți) (638)</span> </label></li>
+                                                <li><label><input data-keyword="cr2025-camelion-lithium" type="checkbox" name="option[13]" value="64"><span class="sf-name">CR2025 Camelion Lithium (633)</span> </label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-availability " data-id="availability">
+    <div class="box-heading">Disponibilitate</div>
+    <div class="box-content">
+        <ul>
+            <li><label><input type="checkbox" value="1" ><span class="sf-name">În stoc</span></label></li>
+            <li><label><input type="checkbox" value="0" ><span class="sf-name">Stoc epuizat</span></label></li>
+        </ul>
+    </div>
+</div>    </div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/filters&amp;module_id=54&amp;filters=%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D45%2Fpage%3D5&amp;oc_route=product%2Fcategory&amp;path=172&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 11:58:33 UTC-->

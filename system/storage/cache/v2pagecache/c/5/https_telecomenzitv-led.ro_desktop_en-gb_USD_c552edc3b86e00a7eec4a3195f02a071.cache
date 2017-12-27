@@ -1,0 +1,163 @@
+<div class="product-filter" data-countdown="always">
+    <div class="display"><b>text_display</b> text_list <b>/</b> <a onclick="display('grid');">text_grid</a></div>
+    <div class="product-compare"><a href="https://telecomenzitv-led.ro/index.php?route=product/compare" id="compare-total">Comparare Produse (0)</a></div>
+    <div class="limit"><b>Produse pe pagină:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit="></option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=25">25</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=50">50</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=75">75</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;limit=100">100</option>
+                                </select>
+    </div>
+    <div class="sort"><b>Sortare după:</b>
+        <select onchange="location = this.value;">
+                                    <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.sort_order&amp;order=ASC" selected="selected">Implicit</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=ASC">Nume (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=pd.name&amp;order=DESC">Nume (Z - A)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=ASC">Preţ (Mic &gt; Mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.price&amp;order=DESC">Preţ (Mare &gt; Mic)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=DESC">Notă (Cea mai mica)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=rating&amp;order=ASC">Notă (Cea mai mare)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+                                                <option value="https://telecomenzitv-led.ro/index.php?route=product/category&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+                                </select>
+    </div>
+</div>
+<div class="row main-products product-list" data-grid-classes="xs-50 sm-50 md-50 lg-33 xl-20 display-both inline-button">
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-de-perete-15-37-inch"  class="has-second-image" style="background: url('https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-reglabil-de-perete-15-37-inch-312N-2-225x300.jpg') no-repeat;" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-reglabil-de-perete-15-37-inch-312N-1-225x300.jpg" title="Suport TV reglabil de perete 15&quot;-37&quot;" alt="Suport TV reglabil de perete 15&quot;-37&quot;" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-de-perete-15-37-inch">Suport TV reglabil de perete 15&quot;-37&quot;</a></h4>
+                    <p class="description">Suport TV de perete reglabil 15"-37"
+Suport TV reglabil pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televi..</p>
+                                                            <p class="price">
+                                                119,00 Lei                                                                        <span class="price-tax">Fără TVA: 119,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('837');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('837');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('837');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-led-lcd-10-30-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-lcd-negru-10-32-inch-1-225x300.jpg" title="Suport TV LCD LED 10"-30" reglabil" alt="Suport TV LCD LED 10"-30" reglabil" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-led-lcd-10-30-inch">Suport TV LCD LED 10"-30" reglabil</a></h4>
+                    <p class="description">Suport TV LCD LED 10"-30" reglabil
+Suport TV pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diag..</p>
+                                                            <p class="price">
+                                                110,00 Lei                                                                        <span class="price-tax">Fără TVA: 110,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('848');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('848');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('848');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-led-lcd-reglabil-10-27-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-perete-reglabil-10-27-led-lcd-101-225x300.jpg" title="Suport TV LCD LED 10-27&quot; reglabil" alt="Suport TV LCD LED 10-27&quot; reglabil" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-led-lcd-reglabil-10-27-inch">Suport TV LCD LED 10-27&quot; reglabil</a></h4>
+                    <p class="description">Suport TV LCD LED 10"-27" reglabil
+Suport TV pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diag..</p>
+                                                            <p class="price">
+                                                25,00 Lei                                                                        <span class="price-tax">Fără TVA: 25,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('834');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('834');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('834');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-led-lcd-17-42-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-reglabil-led-lcd-17-42-inch-305-225x300.jpg" title="Suport TV LCD LED 17&quot;-42&quot; reglabil" alt="Suport TV LCD LED 17&quot;-42&quot; reglabil" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-reglabil-led-lcd-17-42-inch">Suport TV LCD LED 17&quot;-42&quot; reglabil</a></h4>
+                    <p class="description">Suport TV LCD LED 17"-42" reglabil
+Suport TV pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diag..</p>
+                                                            <p class="price">
+                                                65,00 Lei                                                                        <span class="price-tax">Fără TVA: 65,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('841');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('841');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('841');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="product-list-item xs-100 sm-100 md-100 lg-100 xl-100">
+        <div class="product-thumb ">
+            <div class="image ">
+                <a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-lcd-led-reglabil-23-42-inch" >
+                <img class="first-image" src="https://telecomenzitv-led.ro/image/cache/data/product/suport-tv-lcd-led-reglabil-23-42-inch-225x300.jpg" title="Suport TV LCD LED 23"-42" reglabil" alt="Suport TV LCD LED 23"-42" reglabil" />
+                </a>
+                                                                            </div>
+            <div class="product-details">
+                <div class="caption">
+                    <h4 class="name"><a href="https://telecomenzitv-led.ro/suport-tv-led-lcd/suport-tv-lcd-led-reglabil-23-42-inch">Suport TV LCD LED 23"-42" reglabil</a></h4>
+                    <p class="description">Suport TV LCD LED 23"-42" reglabil
+Suport TV pentru televizoare LED, LCD sau plasmă compatibil cu orice model de televizor cu diag..</p>
+                                                            <p class="price">
+                                                125,00 Lei                                                                        <span class="price-tax">Fără TVA: 125,00 Lei</span>
+                                            </p>
+                                    </div>
+                <div class="button-group">
+                                        <div class="cart ">
+                        <a onclick="addToCart('849');" class="button hint--top" data-hint="Adaugă în Coş"><i class="button-left-icon"></i><span class="button-cart-text">Adaugă în Coş</span><i class="button-right-icon"></i></a>
+                    </div>
+                                        <div class="wishlist"><a onclick="addToWishList('849');" class="hint--top" data-hint="Adaugă in Wishlist"><i class="wishlist-icon"></i><span class="button-wishlist-text">Adaugă in Wishlist</span></a></div>
+                    <div class="compare"><a onclick="addToCompare('849');" class="hint--top" data-hint="Compară produsul"><i class="compare-icon"></i><span class="button-compare-text">Compară produsul</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+<div class="row pagination">
+    <div class="col-sm-6 text-left links"></div>
+    <div class="col-sm-6 text-right results">Afişare 1 - 5 din 5 (1 pagini)</div>
+</div>
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/products&amp;module_id=54&amp;filters=%2Fsuport-tv-reglabil-c263%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D45&amp;oc_route=product%2Fcategory&amp;path=261&amp;manufacturer_id=&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 15:12:09 UTC-->

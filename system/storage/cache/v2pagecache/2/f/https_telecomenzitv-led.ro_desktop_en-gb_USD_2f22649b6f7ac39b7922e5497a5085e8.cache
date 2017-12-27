@@ -1,0 +1,38 @@
+<div id="journal-super-filter-54" class="journal-sf filter-collapse " data-filters-action="index.php?route=module/journal2_super_filter/filters&amp;module_id=54" data-products-action="index.php?route=module/journal2_super_filter/products&amp;module_id=54" data-route="module/journal2_super_filter/filters" data-path="" data-manufacturer="" data-search="" data-tag=""  data-loading-text="" data-currency-left="" data-currency-right=" Lei" data-currency-decimal="," data-currency-thousand="." data-category_id="" data-sub_category="" data-st="E.R.">
+        <a class="sf-reset hint--top sf-icon" data-hint=""><span class="sf-reset-text"></span><i class="sf-reset-icon"></i></a>
+        <input type="hidden" class="sf-page" value="" />
+        <div class="sf-price  box " data-id="price" data-min-price="21" data-max-price="28">
+    <div class="box-heading">Preţ</div>
+    <div class="box-content">
+                <section class="slider" data-min-value="21" data-max-value="28"></section>
+            </div>
+</div>        <div class="box sf-category sf-list sf-multi " data-id="category">
+    <div class="box-heading">Categorii</div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="telecomenzi-led-și-lcd" type="checkbox" name="category" value="172"><span class="sf-name">Telecomenzi LED și LCD (9)</span> </label></li>
+                                                <li><label><input data-keyword="telecomenzi-tv" type="checkbox" name="category" value="211"><span class="sf-name">Telecomenzi TV (2)</span> </label></li>
+                                                <li><label><input data-keyword="vortex" type="checkbox" name="category" value="250"><span class="sf-name">Vortex (2)</span> </label></li>
+                                                <li><label><input data-keyword="vortex" type="checkbox" name="category" value="209"><span class="sf-name">Vortex (9)</span> </label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-option sf-list sf-option-13 sf-multi " data-id="option-13">
+    <div class="box-heading"> </div>
+    <div class="box-content">
+        <ul class="">
+                                    <li><label><input data-keyword="r3-maxell-alcalne-2-bucăți" type="checkbox" name="option[13]" value="62"><span class="sf-name">R3 Maxell Alcalne (2 bucăți) (21)</span> </label></li>
+                                                <li><label><input data-keyword="r6-maxell-alcalne-2-bucăți" type="checkbox" name="option[13]" value="63"><span class="sf-name">R6 Maxell Alcalne (2 bucăți) (23)</span> </label></li>
+                                                <li><label><input data-keyword="cr2025-camelion-lithium" type="checkbox" name="option[13]" value="64"><span class="sf-name">CR2025 Camelion Lithium (22)</span> </label></li>
+                                </ul>
+    </div>
+</div>        <div class="box sf-availability " data-id="availability">
+    <div class="box-heading">Disponibilitate</div>
+    <div class="box-content">
+        <ul>
+            <li><label><input type="checkbox" value="1" ><span class="sf-name">În stoc</span></label></li>
+            <li><label><input type="checkbox" value="0" ><span class="sf-name">Stoc epuizat</span></label></li>
+        </ul>
+    </div>
+</div>    </div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=module/journal2_super_filter/filters&amp;module_id=54&amp;filters=%2Fsort%3Dp.sort_order%2Forder%3DASC%2Flimit%3D50&amp;oc_route=product%2Fmanufacturer%2Finfo&amp;path=&amp;manufacturer_id=73&amp;search=&amp;tag=] (en-gb/USD) expires: 2017-12-03 20:07:09 UTC-->

@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = 'Confirmare plasare comandă';
+$_['text_new_greeting']         = '<p>Comanda ta a fost primită şi este în curs de procesare.</p><p>Acest email este generat automat şi nu este confirmarea că produsele sunt pe stoc sau că putem onora cererea ta. Acest mail este informativ și nu creează obligații contractuale.</p><p>Un consultant de vânzari va lua legatura cu tine în cel mai scurt timp posibil pentru confirmarea comenzii.</br>Produsele se pot ridica de la sediul nostru sau livra <b>DOAR după confirmarea comenzii</b>.</p><p>Detaliile de comandă sunt prezentate mai jos pentru referinţă.</p>';
+$_['text_new_received']         = 'Ai primit o nouă comandă.';
+$_['text_new_link']             = 'Pentru a viziona comanda ta, fă click pe urmatorul link:';
+$_['text_new_order_detail']     = 'Detaliile comenzii';
+$_['text_new_instruction']      = 'Instrucțiuni';
+$_['text_new_order_id']         = 'Număr comandă:';
+$_['text_new_date_added']       = 'Data:';
+$_['text_new_order_status']     = 'Statusul comenzii:';
+$_['text_new_payment_method']   = 'Metoda de plată:';
+$_['text_new_shipping_method']  = 'Metoda de livrare:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Telefon:';
+$_['text_new_ip']  				= 'Adresa IP:';
+$_['text_new_payment_address']  = 'Adresa de facturare';
+$_['text_new_shipping_address'] = 'Adresa de livrare';
+$_['text_new_products']         = 'Produse';
+$_['text_new_product']          = 'Produs';
+$_['text_new_model']            = 'Model';
+$_['text_new_quantity']         = 'Cantitate';
+$_['text_new_price']            = 'Preț unitar';
+$_['text_new_order_total']      = 'Valoare comenzii';
+$_['text_new_total']            = 'Preț total';
+$_['text_new_download']         = 'Odată ce plata a fost confirmată, mergi la următorul link pentru a putea accesa descărcările:';
+$_['text_new_comment']          = 'Comentariile pentru comanda ta sunt:';
+$_['text_new_footer']           = 'Te rugăm să răspunzi la acest e-mail dacă ai vreo întrebare sau nelămurire.';
+$_['text_update_subject']       = 'Actualizare status comandă';
+$_['text_update_order']         = 'ID comandă:';
+$_['text_update_date_added']    = 'Data:';
+$_['text_update_order_status']  = 'Comanda ta a fost actualizată cu următorul status:';
+$_['text_update_comment']       = 'Comentariile pentru comanda ta sunt:';
+$_['text_update_link']          = 'Pentru a viziona comanda ta, fă click pe următorul link:';
+$_['text_update_footer']        = 'Te rugăm să răspunzi la acest e-mail sau să ne contactezi telefonic dacă ai vreo întrebare sau nelămurire. Tel: 0722 146 931';

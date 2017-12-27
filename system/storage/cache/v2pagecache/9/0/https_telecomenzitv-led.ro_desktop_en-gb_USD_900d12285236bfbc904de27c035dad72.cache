@@ -1,0 +1,12 @@
+<div id="cart" class="btn-group btn-block">
+  <button type="button" data-toggle="dropdown" class="btn btn-inverse btn-block btn-lg dropdown-toggle heading"><a><span id="cart-total" data-loading-text="Încărcare...&nbsp;&nbsp;">0 produs(e) - 0,00 Lei</span> <i></i></a></button>
+  <div class="content">
+    <ul class="cart-wrapper">
+        <li>
+      <p class="text-center empty">Coșul este gol!</p>
+    </li>
+        </ul>
+  </div>
+</div>
+
+<!--cache protocol [https] host [telecomenzitv-led.ro] device [desktop] uri [host [telecomenzitv-led.ro] uri [/index.php?route=common/cart/info] (en-gb/USD) expires: 2017-12-03 11:45:48 UTC-->

@@ -1,0 +1,7 @@
+.cpointer{
+	cursor: pointer;
+}
+
+.disableClick{
+    pointer-events: none;
+}

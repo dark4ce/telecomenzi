@@ -1,0 +1,9 @@
+[23-Oct-2017 17:49:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ': A intervenit o eroare la comunicarea cu Smart Bill Cloud. Va rugam verificati datele de conectare / reincercati o noua autentificare cu datele existente.' in /home/x1telecomenzitv/public_html/admin/model/smartbill/common.php:187
+Stack trace:
+#0 /home/x1telecomenzitv/public_html/admin/model/smartbill/common.php(233): ModelSmartbillCommon->curl('https://ws.smar...', NULL, Array, false, false)
+#1 [internal function]: ModelSmartbillCommon->getCloudSettings(true)
+#2 /home/x1telecomenzitv/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php(189): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array, Array)
+#4 /home/x1telecomenzitv/public_html/system/engine/proxy.php(25): call_user_func_array(Object(Closure), Array)
+#5 /home/x1telecomenzitv/public_html/admin/controller/smartbill/settings.php(24): Proxy->__call('getCloudSetting...', Array)
+#6 /home/x1telecomenzitv/public_html/admin/controller/smartbill/settings. in /home/x1telecomenzitv/public_html/admin/model/smartbill/common.php on line 187
