@@ -389,7 +389,7 @@ $(document).delegate('#button-ip-add', 'click', function() {
 
 $(document).delegate('#button-invoice', 'click', function() {
 	$.ajax({
-		url: 'index.php?route=sale/order/createinvoiceno&token=<?php echo $token; ?>&order_id=<?php echo $order_id; ?>',
+		url: 'index.php?route=extension/module/fgo/generateInvoice&token=<?php echo $token; ?>&order_id=<?php echo $order_id; ?>',
 		dataType: 'json',
 		beforeSend: function() {
 			$('#button-invoice').button('loading');
