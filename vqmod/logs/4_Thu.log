@@ -1,0 +1,15 @@
+---------- Date: 2017-11-09 14:12:28 ~ IP : 89.38.251.48 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/x1telecomenzitv/public_html/vqmod/xml/formbuilder.xml
+   id        : Form Builder
+   version   : 1.0
+   vqmver    : 2.6.0
+   author    : Coding Inspect
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
+
+----------------------------------------------------------------------
+
+

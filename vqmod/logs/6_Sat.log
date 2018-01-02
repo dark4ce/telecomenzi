@@ -1,0 +1,18 @@
+---------- Date: 2017-11-11 17:03:00 ~ IP : 86.120.243.146 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/x1telecomenzitv/public_html/vqmod/xml/formbuilder.xml
+   id        : Form Builder
+   version   : 1.0
+   vqmver    : 2.6.0
+   author    : Coding Inspect
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/common/seo_url.php] (SKIPPED)
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
+
+----------------------------------------------------------------------
+
+

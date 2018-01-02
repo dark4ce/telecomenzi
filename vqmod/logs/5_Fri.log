@@ -1,0 +1,30 @@
+---------- Date: 2017-12-01 16:25:33 ~ IP : 82.76.210.68 ----------
+REQUEST URI : /work/
+MOD DETAILS:
+   modFile   : /home/x1telecomenzitv/public_html/vqmod/xml/formbuilder.xml
+   id        : Form Builder
+   version   : 1.0
+   vqmver    : 2.6.0
+   author    : Coding Inspect
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-12-01 16:30:16 ~ IP : 82.76.210.68 ----------
+REQUEST URI : /work/
+MOD DETAILS:
+   modFile   : /home/x1telecomenzitv/public_html/vqmod/xml/formbuilder.xml
+   id        : Form Builder
+   version   : 1.0
+   vqmver    : 2.6.0
+   author    : Coding Inspect
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
+
+----------------------------------------------------------------------
+
+
